@@ -27,11 +27,16 @@ def get_weather_data(driver, continent):
                 # Split the country and city
                 if ', ' in country_city:
                     the_split= country_city.split(', ')
-                    result_dict['Country'] = the_split[0]
-                    result_dict['City'] = the_split[1]
+                    # the_split length is 3
+                    if len(the_split) == 3:
+                        result_dict['Country'] = the_split[0]
+                        result_dict['City'] = the_split[1] + ', ' + the_split[2]
+                    elif len(the_split) == 2:
+                        result_dict['Country'] = the_split[0]
+                        result_dict['City'] = the_split[1]
                 else:
                     result_dict['Country'] = country_city
-                    # result_dict['City'] = None
+                    result_dict['City'] = None
                 #get the current time and weather
                 result_dict['Time'] = cells[1].text
                 result_dict['Weather'] = cells[3].text
