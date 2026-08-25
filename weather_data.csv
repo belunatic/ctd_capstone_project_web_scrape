@@ -1,0 +1,279 @@
+Country,City,Time,Weather,Continent
+Algeria,Algiers,Tue 5:26 am,83 °F,Africa
+Angola,Luanda,Tue 5:26 am,68 °F,Africa
+Benin,Porto Novo,Tue 5:26 am,77 °F,Africa
+Botswana,Gaborone,Tue 6:26 am,50 °F,Africa
+Cabo Verde,Praia,Tue 3:26 am,82 °F,Africa
+Cameroon,Yaoundé,Tue 5:26 am,72 °F,Africa
+Central African Republic,Bangui,Tue 5:26 am,72 °F,Africa
+Chad,N'Djamena,Tue 5:26 am,75 °F,Africa
+Comoros,Moroni,Tue 7:26 am,72 °F,Africa
+Congo,Brazzaville,Tue 5:26 am,72 °F,Africa
+Congo Dem. Rep.,Kinshasa,Tue 5:26 am,72 °F,Africa
+Cote d'Ivoire (Ivory Coast),Abidjan,Tue 4:26 am,75 °F,Africa
+Egypt,Cairo,Tue 7:26 am,77 °F,Africa
+Equatorial Guinea,Malabo,Tue 5:26 am,79 °F,Africa
+Eswatini,Mbabane,Tue 6:26 am,73 °F,Africa
+Ethiopia,Addis Ababa,Tue 7:26 am,59 °F,Africa
+Gabon,Libreville,Tue 5:26 am,75 °F,Africa
+Gambia,Banjul,Tue 4:26 am,79 °F,Africa
+Ghana,Accra,Tue 4:26 am,75 °F,Africa
+Guinea,Conakry,Tue 4:26 am,79 °F,Africa
+Guinea-Bissau,Bissau,Tue 4:26 am,81 °F,Africa
+Kenya,Nairobi,Tue 7:26 am,57 °F,Africa
+Liberia,Monrovia,Tue 4:26 am,75 °F,Africa
+Madagascar,Antananarivo,Tue 7:26 am,52 °F,Africa
+Malawi,Lilongwe,Tue 6:26 am,54 °F,Africa
+Mali,Bamako,Tue 4:26 am,79 °F,Africa
+Mauritius,Port Louis,Tue 8:26 am,65 °F,Africa
+Morocco,Casablanca,Tue 5:26 am,72 °F,Africa
+Morocco,Rabat,Tue 5:26 am,64 °F,Africa
+Namibia,Windhoek,Tue 6:26 am,60 °F,Africa
+Niger,Niamey,Tue 5:26 am,84 °F,Africa
+Réunion (French),Saint-Denis,Tue 8:26 am,73 °F,Africa
+Rwanda,Kigali,Tue 6:26 am,68 °F,Africa
+Sao Tome and Principe,São Tomé,Tue 4:26 am,81 °F,Africa
+Senegal,Dakar,Tue 4:26 am,82 °F,Africa
+Seychelles,Victoria,Tue 8:26 am,81 °F,Africa
+South Africa,Cape Town,Tue 6:26 am,55 °F,Africa
+South Africa,Johannesburg,Tue 6:26 am,56 °F,Africa
+South Africa,Pretoria,Tue 6:26 am,48 °F,Africa
+Tanzania,Dar es Salaam,Tue 7:26 am,68 °F,Africa
+Tanzania,Dodoma,Tue 7:26 am,63 °F,Africa
+Togo,Lomé,Tue 4:26 am,77 °F,Africa
+Tunisia,Tunis,Tue 5:26 am,84 °F,Africa
+Uganda,Kampala,Tue 7:26 am,70 °F,Africa
+Western Sahara,El Aaiún,Tue 5:26 am,72 °F,Africa
+Zimbabwe,Harare,Tue 6:26 am,48 °F,Africa
+Albania,Tirana,Tue 6:27 am,66 °F,Europe
+Armenia,Yerevan,Tue 8:27 am,69 °F,Europe
+Austria,Vienna,Tue 6:27 am,57 °F,Europe
+Belarus,Minsk,Tue 7:27 am,52 °F,Europe
+Belgium,Brussels,Tue 6:27 am,54 °F,Europe
+Bosnia-Herzegovina,Sarajevo,Tue 6:27 am,57 °F,Europe
+Bulgaria,Sofia,Tue 7:27 am,64 °F,Europe
+Croatia,Zagreb,Tue 6:27 am,57 °F,Europe
+Cyprus,Nicosia,Tue 7:27 am,72 °F,Europe
+Czechia,Prague,Tue 6:27 am,55 °F,Europe
+Denmark,Copenhagen,Tue 6:27 am,52 °F,Europe
+Estonia,Tallinn,Tue 7:27 am,55 °F,Europe
+Faroe Islands,Tórshavn,Tue 5:27 am,48 °F,Europe
+Finland,Helsinki,Tue 7:27 am,50 °F,Europe
+Finland,Kemi,Tue 7:27 am,41 °F,Europe
+Finland,Rovaniemi,Tue 7:27 am,50 °F,Europe
+France,Paris,Tue 6:27 am,59 °F,Europe
+Georgia,Tbilisi,Tue 8:27 am,74 °F,Europe
+Germany,Berlin,Tue 6:27 am,52 °F,Europe
+Germany,Hesse,Tue 6:27 am,61 °F,Europe
+Gibraltar,Gibraltar,Tue 6:27 am,70 °F,Europe
+Greece,Athens,Tue 7:27 am,87 °F,Europe
+Hungary,Budapest,Tue 6:27 am,66 °F,Europe
+Iceland,Reykjavik,Tue 4:27 am,46 °F,Europe
+Ireland,Dublin,Tue 5:27 am,55 °F,Europe
+Isle of Man,Douglas,Tue 5:27 am,61 °F,Europe
+Italy,Milan,Tue 6:27 am,70 °F,Europe
+Italy,Rome,Tue 6:27 am,79 °F,Europe
+Kosovo,Pristina,Tue 6:27 am,70 °F,Europe
+Latvia,Riga,Tue 7:27 am,57 °F,Europe
+Liechtenstein,Vaduz,Tue 6:27 am,63 °F,Europe
+Lithuania,Vilnius,Tue 7:27 am,54 °F,Europe
+Luxembourg,Luxembourg,Tue 6:27 am,59 °F,Europe
+Malta,Valletta,Tue 6:27 am,79 °F,Europe
+Moldova,Chișinău,Tue 7:27 am,61 °F,Europe
+Monaco,Monaco,Tue 6:27 am,70 °F,Europe
+Montenegro,Podgorica,Tue 6:27 am,73 °F,Europe
+Netherlands,Amsterdam,Tue 6:27 am,57 °F,Europe
+North Macedonia,Skopje,Tue 6:27 am,66 °F,Europe
+Norway,Svalbard,Tue 6:27 am,39 °F,Europe
+Norway,Oslo,Tue 6:27 am,50 °F,Europe
+Norway,Tromsø,Tue 6:27 am,54 °F,Europe
+Poland,Warsaw,Tue 6:27 am,48 °F,Europe
+Portugal,Azores,Tue 4:27 am,68 °F,Europe
+Portugal,Lisbon,Tue 5:27 am,66 °F,Europe
+Romania,Bucharest,Tue 7:27 am,64 °F,Europe
+Russia,Belushya Guba,Tue 7:27 am,50 °F,Europe
+Russia,Kaliningrad,Tue 6:27 am,52 °F,Europe
+Russia,Moscow,Tue 7:27 am,54 °F,Europe
+Russia,Murmansk,Tue 7:27 am,37 °F,Europe
+Russia,Novgorod,Tue 7:27 am,56 °F,Europe
+Russia,Saint Petersburg,Tue 7:27 am,55 °F,Europe
+Russia,Samara,Tue 8:27 am,66 °F,Europe
+Russia,Kazan,Tue 7:27 am,61 °F,Europe
+Russia,Izhevsk,Tue 8:27 am,62 °F,Europe
+San Marino,San Marino,Tue 6:27 am,70 °F,Europe
+Serbia,Belgrade,Tue 6:27 am,63 °F,Europe
+Slovakia,Bratislava,Tue 6:27 am,64 °F,Europe
+Slovenia,Ljubljana,Tue 6:27 am,55 °F,Europe
+Spain,Barcelona,Tue 6:27 am,73 °F,Europe
+Spain,Madrid,Tue 6:27 am,63 °F,Europe
+Spain,Majorca,Tue 6:27 am,77 °F,Europe
+Sweden,Stockholm,Tue 6:27 am,50 °F,Europe
+Switzerland,Bern,Tue 6:27 am,59 °F,Europe
+Switzerland,Geneva,Tue 6:27 am,64 °F,Europe
+Switzerland,Zurich,Tue 6:27 am,63 °F,Europe
+Turkey,Istanbul,Tue 7:27 am,75 °F,Europe
+Ukraine,Dnipro,Tue 7:27 am,59 °F,Europe
+Ukraine,Kyiv,Tue 7:27 am,55 °F,Europe
+United Kingdom,England,Tue 5:27 am,59 °F,Europe
+United Kingdom,Northern Ireland,Tue 5:27 am,59 °F,Europe
+United Kingdom,Scotland,Tue 5:27 am,46 °F,Europe
+United Kingdom,Scotland,Tue 5:27 am,50 °F,Europe
+United Kingdom,Wales,Tue 5:27 am,59 °F,Europe
+Vatican City State,Vatican City,Tue 6:27 am,79 °F,Europe
+Antigua and Barbuda,Saint John's,Tue 12:27 am,82 °F,North America
+Bahamas,Nassau,Tue 12:27 am,81 °F,North America
+Barbados,Bridgetown,Tue 12:27 am,82 °F,North America
+Belize,Belmopan,Mon 10:27 pm,80 °F,North America
+Bermuda,Hamilton,Tue 1:27 am,81 °F,North America
+Canada,Alberta,Mon 10:27 pm,61 °F,North America
+Canada,Alberta,Mon 10:27 pm,54 °F,North America
+Canada,British Columbia,Mon 9:27 pm,66 °F,North America
+Canada,Manitoba,Mon 11:27 pm,69 °F,North America
+Canada,New Brunswick,Tue 1:27 am,61 °F,North America
+Canada,Newfoundland and Labrador,Tue 1:27 am,59 °F,North America
+Canada,Newfoundland and Labrador,Tue 1:57 am,55 °F,North America
+Canada,Newfoundland and Labrador,Tue 1:57 am,70 °F,North America
+Canada,Northwest Territories,Mon 10:27 pm,61 °F,North America
+Canada,Northwest Territories,Mon 10:27 pm,59 °F,North America
+Canada,Nova Scotia,Tue 1:27 am,68 °F,North America
+Canada,Nunavut,Mon 11:27 pm,51 °F,North America
+Canada,Nunavut,Mon 11:27 pm,46 °F,North America
+Canada,Nunavut,Mon 11:27 pm,41 °F,North America
+Canada,Nunavut,Tue 12:27 am,37 °F,North America
+Canada,Nunavut,Mon 11:27 pm,36 °F,North America
+Canada,Ontario,Tue 12:27 am,57 °F,North America
+Canada,Ontario,Tue 12:27 am,63 °F,North America
+Canada,Quebec,Tue 12:27 am,63 °F,North America
+Canada,Quebec,Tue 12:27 am,59 °F,North America
+Canada,Quebec,Tue 12:27 am,57 °F,North America
+Canada,Quebec,Tue 12:27 am,64 °F,North America
+Canada,Quebec,Tue 12:27 am,55 °F,North America
+Canada,Saskatchewan,Mon 10:27 pm,61 °F,North America
+Canada,Yukon,Mon 9:27 pm,55 °F,North America
+Cayman Islands,Grand Cayman,Mon 11:27 pm,84 °F,North America
+Costa Rica,San Jose,Mon 10:27 pm,75 °F,North America
+Cuba,Havana,Tue 12:27 am,79 °F,North America
+Dominica,Roseau,Tue 12:27 am,85 °F,North America
+Dominican Republic,Santo Domingo,Tue 12:27 am,83 °F,North America
+El Salvador,San Salvador,Mon 10:27 pm,81 °F,North America
+Grenada,Saint George's,Tue 12:27 am,82 °F,North America
+Guadeloupe,Guadeloupe,Tue 12:27 am,81 °F,North America
+Guam,Hagåtña,Tue 2:27 pm,87 °F,North America
+Guatemala,Guatemala City,Mon 10:27 pm,68 °F,North America
+Honduras,Tegucigalpa,Mon 10:27 pm,77 °F,North America
+Jamaica,Kingston,Mon 11:27 pm,86 °F,North America
+Martinique,Fort-de-France,Tue 12:27 am,82 °F,North America
+Mexico,Aguascalientes,Mon 10:27 pm,68 °F,North America
+Mexico,Baja California,Mon 9:27 pm,102 °F,North America
+Mexico,Baja California,Mon 9:27 pm,73 °F,North America
+Mexico,Ciudad de México,Mon 10:27 pm,61 °F,North America
+Mexico,Guerrero,Mon 10:27 pm,81 °F,North America
+Mexico,Jalisco,Mon 10:27 pm,72 °F,North America
+Mexico,Quintana Roo,Mon 11:27 pm,84 °F,North America
+Mexico,Sinaloa,Mon 9:27 pm,86 °F,North America
+Mexico,Sonora,Mon 9:27 pm,97 °F,North America
+Mexico,Veracruz,Mon 10:27 pm,79 °F,North America
+Nicaragua,Managua,Mon 10:27 pm,84 °F,North America
+Panama,Panama,Mon 11:27 pm,82 °F,North America
+Puerto Rico,San Juan,Tue 12:27 am,82 °F,North America
+Saint Kitts and Nevis,Basseterre,Tue 12:27 am,82 °F,North America
+Saint Lucia,Castries,Tue 12:27 am,82 °F,North America
+Saint Vincent and Grenadines,Kingstown,Tue 12:27 am,82 °F,North America
+US Minor Outlying Islands,Wake Island,Tue 4:27 pm,88 °F,North America
+USA,Alabama,Mon 11:27 pm,78 °F,North America
+USA,Alaska,Mon 7:27 pm,55 °F,North America
+USA,Alaska,Mon 8:27 pm,56 °F,North America
+USA,Alaska,Mon 8:27 pm,61 °F,North America
+USA,Alaska,Mon 8:27 pm,58 °F,North America
+USA,Alaska,Mon 8:27 pm,66 °F,North America
+USA,Arizona,Mon 9:27 pm,102 °F,North America
+USA,Arkansas,Mon 11:27 pm,76 °F,North America
+USA,California,Mon 9:27 pm,75 °F,North America
+USA,California,Mon 9:27 pm,75 °F,North America
+USA,California,Mon 9:27 pm,73 °F,North America
+USA,California,Mon 9:27 pm,59 °F,North America
+USA,California,Mon 9:27 pm,65 °F,North America
+USA,Colorado,Mon 10:27 pm,71 °F,North America
+USA,Connecticut,Tue 12:27 am,68 °F,North America
+USA,Delaware,Tue 12:27 am,72 °F,North America
+USA,District of Columbia,Tue 12:27 am,71 °F,North America
+USA,Florida,Tue 12:27 am,83 °F,North America
+USA,Florida,Tue 12:27 am,82 °F,North America
+USA,Florida,Mon 11:27 pm,75 °F,North America
+USA,Georgia,Tue 12:27 am,70 °F,North America
+USA,Hawaii,Mon 6:27 pm,84 °F,North America
+USA,Idaho,Mon 10:27 pm,78 °F,North America
+USA,Illinois,Mon 11:27 pm,70 °F,North America
+USA,Indiana,Tue 12:27 am,68 °F,North America
+USA,Iowa,Mon 11:27 pm,68 °F,North America
+USA,Kansas,Mon 11:27 pm,73 °F,North America
+USA,Kentucky,Tue 12:27 am,71 °F,North America
+USA,Louisiana,Mon 11:27 pm,77 °F,North America
+USA,Maine,Tue 12:27 am,64 °F,North America
+USA,Maryland,Tue 12:27 am,64 °F,North America
+USA,Massachusetts,Tue 12:27 am,70 °F,North America
+USA,Michigan,Tue 12:27 am,70 °F,North America
+USA,Minnesota,Mon 11:27 pm,77 °F,North America
+USA,Minnesota,Mon 11:27 pm,72 °F,North America
+USA,Mississippi,Mon 11:27 pm,74 °F,North America
+USA,Missouri,Mon 11:27 pm,75 °F,North America
+USA,Missouri,Mon 11:27 pm,72 °F,North America
+USA,Montana,Mon 10:27 pm,69 °F,North America
+USA,Nebraska,Mon 11:27 pm,70 °F,North America
+USA,Nevada,Mon 9:27 pm,100 °F,North America
+USA,New Hampshire,Tue 12:27 am,63 °F,North America
+USA,New Jersey,Tue 12:27 am,69 °F,North America
+USA,New Mexico,Mon 10:27 pm,86 °F,North America
+USA,New York,Tue 12:27 am,69 °F,North America
+USA,North Carolina,Tue 12:27 am,74 °F,North America
+USA,North Dakota,Mon 11:27 pm,73 °F,North America
+USA,Ohio,Tue 12:27 am,64 °F,North America
+USA,Oklahoma,Mon 11:27 pm,90 °F,North America
+USA,Oregon,Mon 9:27 pm,83 °F,North America
+USA,Oregon,Mon 9:27 pm,80 °F,North America
+USA,Pennsylvania,Tue 12:27 am,69 °F,North America
+USA,Rhode Island,Tue 12:27 am,68 °F,North America
+USA,South Carolina,Tue 12:27 am,75 °F,North America
+USA,South Dakota,Mon 10:27 pm,68 °F,North America
+USA,South Dakota,Mon 11:27 pm,71 °F,North America
+USA,Tennessee,Tue 12:27 am,70 °F,North America
+USA,Tennessee,Mon 11:27 pm,70 °F,North America
+USA,Texas,Mon 11:27 pm,89 °F,North America
+USA,Texas,Mon 11:27 pm,96 °F,North America
+USA,Texas,Mon 11:27 pm,84 °F,North America
+USA,Texas,Mon 11:27 pm,91 °F,North America
+USA,Utah,Mon 10:27 pm,77 °F,North America
+USA,Vermont,Tue 12:27 am,57 °F,North America
+USA,Virginia,Tue 12:27 am,71 °F,North America
+USA,Washington,Mon 9:27 pm,71 °F,North America
+USA,West Virginia,Tue 12:27 am,59 °F,North America
+USA,Wisconsin,Mon 11:27 pm,58 °F,North America
+USA,Wisconsin,Mon 11:27 pm,59 °F,North America
+USA,Wyoming,Mon 10:27 pm,75 °F,North America
+Argentina,Buenos Aires,Tue 1:27 am,50 °F,South America
+Argentina,Córdoba,Tue 1:27 am,47 °F,South America
+Bolivia,La Paz,Tue 12:27 am,34 °F,South America
+Brazil,Acre,Mon 11:27 pm,77 °F,South America
+Brazil,Amazonas,Tue 12:27 am,81 °F,South America
+Brazil,Bahia,Tue 1:27 am,77 °F,South America
+Brazil,Ceará,Tue 1:27 am,81 °F,South America
+Brazil,Distrito Federal,Tue 1:27 am,72 °F,South America
+Brazil,Pará,Tue 1:27 am,77 °F,South America
+Brazil,Pernambuco,Tue 1:27 am,77 °F,South America
+Brazil,Rio de Janeiro,Tue 1:27 am,68 °F,South America
+Brazil,São Paulo,Tue 1:27 am,57 °F,South America
+Chile,Easter Island,Mon 10:27 pm,64 °F,South America
+Chile,Punta Arenas,Tue 1:27 am,38 °F,South America
+Chile,Santiago,Tue 12:27 am,57 °F,South America
+Colombia,Bogota,Mon 11:27 pm,46 °F,South America
+Ecuador,Guayaquil,Mon 11:27 pm,77 °F,South America
+Ecuador,Quito,Mon 11:27 pm,48 °F,South America
+Falkland Islands,Stanley,Tue 1:27 am,36 °F,South America
+French Guiana,Cayenne,Tue 1:27 am,75 °F,South America
+Guyana,Georgetown,Tue 12:27 am,86 °F,South America
+Paraguay,Asuncion,Tue 1:27 am,54 °F,South America
+Peru,Lima,Mon 11:27 pm,70 °F,South America
+Suriname,Paramaribo,Tue 1:27 am,75 °F,South America
+Trinidad and Tobago,Port of Spain,Tue 12:27 am,79 °F,South America
+Uruguay,Montevideo,Tue 1:27 am,41 °F,South America
+Venezuela,Caracas,Tue 12:27 am,82 °F,South America
