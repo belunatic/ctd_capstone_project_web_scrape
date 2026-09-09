@@ -1,279 +1,276 @@
 Country,City,Time,Weather,Continent
-Algeria,Algiers,05:34:00,82,Africa
-Angola,Luanda,05:34:00,72,Africa
-Benin,Porto Novo,05:34:00,79,Africa
-Botswana,Gaborone,06:34:00,48,Africa
-Burundi,Bujumbura,06:34:00,68,Africa
-Burundi,Gitega,06:34:00,68,Africa
-Cameroon,Yaoundé,05:34:00,72,Africa
-Central African Republic,Bangui,05:34:00,75,Africa
-Chad,N'Djamena,05:34:00,77,Africa
-Comoros,Moroni,07:34:00,73,Africa
-Congo,Brazzaville,05:34:00,73,Africa
-Congo Dem. Rep.,Kinshasa,05:34:00,73,Africa
-Cote d'Ivoire (Ivory Coast),Abidjan,04:34:00,76,Africa
-Egypt,Cairo,07:34:00,77,Africa
-Equatorial Guinea,Malabo,05:34:00,77,Africa
-Ethiopia,Addis Ababa,07:34:00,57,Africa
-Gabon,Libreville,05:34:00,79,Africa
-Gambia,Banjul,04:34:00,79,Africa
-Ghana,Accra,04:34:00,75,Africa
-Guinea-Bissau,Bissau,04:34:00,79,Africa
-Kenya,Nairobi,07:34:00,57,Africa
-Liberia,Monrovia,04:34:00,79,Africa
-Madagascar,Antananarivo,07:34:00,54,Africa
-Malawi,Lilongwe,06:34:00,63,Africa
-Mali,Bamako,04:34:00,77,Africa
-Mauritius,Port Louis,08:34:00,62,Africa
-Morocco,Casablanca,05:34:00,72,Africa
-Morocco,Rabat,05:34:00,61,Africa
-Namibia,Windhoek,06:34:00,64,Africa
-Niger,Niamey,05:34:00,79,Africa
-Nigeria,"Lagos, Lagos",05:34:00,77,Africa
-Réunion (French),Saint-Denis,08:34:00,64,Africa
-Rwanda,Kigali,06:34:00,66,Africa
-Sao Tome and Principe,São Tomé,04:34:00,81,Africa
-Senegal,Dakar,04:34:00,83,Africa
-Seychelles,Victoria,08:34:00,81,Africa
-South Africa,Cape Town,06:34:00,52,Africa
-South Africa,Johannesburg,06:34:00,56,Africa
-South Africa,Pretoria,06:34:00,46,Africa
-Tanzania,Dar es Salaam,07:34:00,72,Africa
-Tanzania,Dodoma,07:34:00,63,Africa
-Togo,Lomé,04:34:00,77,Africa
-Tunisia,Tunis,05:34:00,79,Africa
-Uganda,Kampala,07:34:00,75,Africa
-Western Sahara,El Aaiún,05:34:00,72,Africa
-Zimbabwe,Harare,06:34:00,57,Africa
-Albania,Tirana,06:34:00,72,Europe
-Armenia,Yerevan,08:34:00,60,Europe
-Austria,"Vienna, Vienna",06:34:00,64,Europe
-Belarus,Minsk,07:34:00,52,Europe
-Belgium,"Brussels, Brussels",06:34:00,61,Europe
-Bosnia-Herzegovina,Sarajevo,06:34:00,61,Europe
-Bulgaria,Sofia,07:34:00,64,Europe
-Croatia,Zagreb,06:34:00,61,Europe
-Cyprus,Nicosia,07:34:00,75,Europe
-Czechia,Prague,06:34:00,63,Europe
-Denmark,Copenhagen,06:34:00,55,Europe
-Estonia,Tallinn,07:34:00,61,Europe
-Faroe Islands,Tórshavn,05:34:00,46,Europe
-Finland,Helsinki,07:34:00,61,Europe
-Finland,Kemi,07:34:00,59,Europe
-Finland,Rovaniemi,07:34:00,57,Europe
-France,"Paris, Paris",06:34:00,61,Europe
-Georgia,Tbilisi,08:34:00,66,Europe
-Germany,"Berlin, Berlin",06:34:00,57,Europe
-Germany,"Hesse, Frankfurt",06:34:00,63,Europe
-Gibraltar,"Gibraltar, Gibraltar",06:34:00,64,Europe
-Greece,Athens,07:34:00,77,Europe
-Hungary,Budapest,06:34:00,59,Europe
-Iceland,Reykjavik,04:34:00,45,Europe
-Ireland,Dublin,05:34:00,57,Europe
-Isle of Man,Douglas,05:34:00,61,Europe
-Italy,Milan,06:34:00,66,Europe
-Italy,Rome,06:34:00,73,Europe
-Kosovo,Pristina,06:34:00,70,Europe
-Latvia,Riga,07:34:00,59,Europe
-Liechtenstein,Vaduz,06:34:00,61,Europe
-Lithuania,Vilnius,07:34:00,59,Europe
-Luxembourg,Luxembourg,06:34:00,59,Europe
-Malta,Valletta,06:34:00,81,Europe
-Moldova,Chișinău,07:34:00,57,Europe
-Monaco,Monaco,06:34:00,73,Europe
-Montenegro,Podgorica,06:34:00,73,Europe
-Netherlands,Amsterdam,06:34:00,63,Europe
-North Macedonia,Skopje,06:34:00,70,Europe
-Norway,"Svalbard, Longyearbyen",06:34:00,45,Europe
-Norway,Oslo,06:34:00,55,Europe
-Norway,Tromsø,06:34:00,54,Europe
-Poland,Warsaw,06:34:00,59,Europe
-Portugal,"Azores, Ponta Delgada",04:34:00,72,Europe
-Portugal,"Lisbon, Lisbon",05:34:00,64,Europe
-Romania,Bucharest,07:34:00,63,Europe
-Russia,Belushya Guba,07:34:00,40,Europe
-Russia,Kaliningrad,06:34:00,61,Europe
-Russia,Moscow,07:34:00,59,Europe
-Russia,Murmansk,07:34:00,55,Europe
-Russia,Novgorod,07:34:00,56,Europe
-Russia,Saint Petersburg,07:34:00,59,Europe
-Russia,Samara,08:34:00,55,Europe
-Russia,Kazan,07:34:00,54,Europe
-Russia,Izhevsk,08:34:00,39,Europe
-San Marino,San Marino,06:34:00,70,Europe
-Serbia,Belgrade,06:34:00,66,Europe
-Slovakia,Bratislava,06:34:00,63,Europe
-Slovenia,Ljubljana,06:34:00,57,Europe
-Spain,"Barcelona, Barcelona",06:34:00,73,Europe
-Spain,"Madrid, Madrid",06:34:00,68,Europe
-Spain,"Majorca, Palma",06:34:00,68,Europe
-Sweden,Stockholm,06:34:00,63,Europe
-Switzerland,"Bern, Bern",06:34:00,61,Europe
-Switzerland,"Geneva, Geneva",06:34:00,70,Europe
-Switzerland,"Zurich, Zürich",06:34:00,61,Europe
-Turkey,Istanbul,07:34:00,72,Europe
-Ukraine,Dnipro,07:34:00,60,Europe
-Ukraine,Kyiv,07:34:00,64,Europe
-United Kingdom,"England, London",05:34:00,59,Europe
-United Kingdom,"Northern Ireland, Belfast",05:34:00,59,Europe
-United Kingdom,"Scotland, Edinburgh",05:34:00,55,Europe
-United Kingdom,"Scotland, Glasgow",05:34:00,55,Europe
-United Kingdom,"Wales, Cardiff",05:34:00,57,Europe
-Vatican City State,Vatican City,06:34:00,73,Europe
-Antigua and Barbuda,Saint John's,00:34:00,73,North America
-Bahamas,Nassau,00:34:00,79,North America
-Barbados,Bridgetown,00:34:00,82,North America
-Belize,Belmopan,22:34:00,85,North America
-Bermuda,Hamilton,01:34:00,82,North America
-Canada,"Alberta, Calgary",22:34:00,59,North America
-Canada,"Alberta, Edmonton",22:34:00,55,North America
-Canada,"British Columbia, Vancouver",21:34:00,63,North America
-Canada,"Manitoba, Winnipeg",23:34:00,73,North America
-Canada,"New Brunswick, Saint John",01:34:00,59,North America
-Canada,"Newfoundland and Labrador, Happy Valley-Goose Bay",01:34:00,46,North America
-Canada,"Newfoundland and Labrador, Mary's Harbour",02:04:00,54,North America
-Canada,"Newfoundland and Labrador, St. John's",02:04:00,61,North America
-Canada,"Northwest Territories, Inuvik",22:34:00,48,North America
-Canada,"Northwest Territories, Yellowknife",22:34:00,52,North America
-Canada,"Nova Scotia, Halifax",01:34:00,63,North America
-Canada,"Nunavut, Baker Lake",23:34:00,55,North America
-Canada,"Nunavut, Coral Harbour",23:34:00,46,North America
-Canada,"Nunavut, Eureka",23:34:00,34,North America
-Canada,"Nunavut, Pond Inlet",00:34:00,46,North America
-Canada,"Nunavut, Resolute Bay",23:34:00,41,North America
-Canada,"Ontario, Ottawa",00:34:00,61,North America
-Canada,"Ontario, Toronto",00:34:00,66,North America
-Canada,"Quebec, Blanc-Sablon",00:34:00,52,North America
-Canada,"Quebec, Chibougamau",00:34:00,46,North America
-Canada,"Quebec, Kuujjuaq",00:34:00,34,North America
-Canada,"Quebec, Montréal",00:34:00,61,North America
-Canada,"Quebec, Québec",00:34:00,50,North America
-Canada,"Saskatchewan, Regina",22:34:00,55,North America
-Canada,"Yukon, Whitehorse",21:34:00,50,North America
-Cayman Islands,"Grand Cayman, George Town",23:34:00,82,North America
-Costa Rica,San Jose,22:34:00,70,North America
-Cuba,Havana,00:34:00,79,North America
-Dominica,Roseau,00:34:00,77,North America
-Dominican Republic,Santo Domingo,00:34:00,83,North America
-El Salvador,San Salvador,22:34:00,86,North America
-Grenada,Saint George's,00:34:00,84,North America
-Guadeloupe,"Guadeloupe, Basse-Terre",00:34:00,79,North America
-Guam,Hagåtña,14:34:00,83,North America
-Guatemala,Guatemala City,22:34:00,70,North America
-Honduras,Tegucigalpa,22:34:00,77,North America
-Jamaica,Kingston,23:34:00,85,North America
-Martinique,Fort-de-France,00:34:00,81,North America
-Mexico,"Aguascalientes, Aguascalientes",22:34:00,66,North America
-Mexico,"Baja California, Mexicali",21:34:00,95,North America
-Mexico,"Baja California, Tijuana",21:34:00,72,North America
-Mexico,"Ciudad de México, Mexico City",22:34:00,66,North America
-Mexico,"Guerrero, Acapulco",22:34:00,82,North America
-Mexico,"Jalisco, Guadalajara",22:34:00,72,North America
-Mexico,"Quintana Roo, Cancún",23:34:00,84,North America
-Mexico,"Sinaloa, Mazatlan",21:34:00,82,North America
-Mexico,"Sonora, Hermosillo",21:34:00,93,North America
-Mexico,"Veracruz, Veracruz",22:34:00,81,North America
-Nicaragua,Managua,22:34:00,86,North America
-Panama,Panama,23:34:00,82,North America
-Puerto Rico,San Juan,00:34:00,81,North America
-Saint Kitts and Nevis,Basseterre,00:34:00,77,North America
-Saint Lucia,Castries,00:34:00,81,North America
-Saint Vincent and Grenadines,Kingstown,00:34:00,83,North America
-US Minor Outlying Islands,Wake Island,16:34:00,86,North America
-USA,"Alabama, Montgomery",23:34:00,84,North America
-USA,"Alaska, Adak",19:34:00,61,North America
-USA,"Alaska, Anchorage",20:34:00,54,North America
-USA,"Alaska, Fairbanks",20:34:00,51,North America
-USA,"Alaska, Juneau",20:34:00,54,North America
-USA,"Alaska, Unalaska",20:34:00,68,North America
-USA,"Arizona, Phoenix",21:34:00,93,North America
-USA,"Arkansas, Little Rock",23:34:00,78,North America
-USA,"California, Los Angeles",21:34:00,74,North America
-USA,"California, Sacramento",21:34:00,71,North America
-USA,"California, San Diego",21:34:00,73,North America
-USA,"California, San Francisco",21:34:00,59,North America
-USA,"California, San Jose",21:34:00,63,North America
-USA,"Colorado, Denver",22:34:00,66,North America
-USA,"Connecticut, Hartford",00:34:00,70,North America
-USA,"Delaware, Dover",00:34:00,76,North America
-USA,"District of Columbia, Washington DC",00:34:00,76,North America
-USA,"Florida, Miami",00:34:00,81,North America
-USA,"Florida, Orlando",00:34:00,78,North America
-USA,"Florida, Pensacola",23:34:00,81,North America
-USA,"Georgia, Atlanta",00:34:00,74,North America
-USA,"Hawaii, Honolulu",18:34:00,84,North America
-USA,"Idaho, Boise",22:34:00,65,North America
-USA,"Illinois, Chicago",23:34:00,76,North America
-USA,"Indiana, Indianapolis",00:34:00,79,North America
-USA,"Iowa, Des Moines",23:34:00,80,North America
-USA,"Kansas, Topeka",23:34:00,89,North America
-USA,"Kentucky, Louisville",00:34:00,80,North America
-USA,"Louisiana, New Orleans",23:34:00,83,North America
-USA,"Maine, Augusta",00:34:00,58,North America
-USA,"Maryland, Baltimore",00:34:00,75,North America
-USA,"Massachusetts, Boston",00:34:00,74,North America
-USA,"Michigan, Detroit",00:34:00,73,North America
-USA,"Minnesota, Minneapolis",23:34:00,77,North America
-USA,"Minnesota, Saint Paul",23:34:00,75,North America
-USA,"Mississippi, Jackson",23:34:00,82,North America
-USA,"Missouri, Kansas City",23:34:00,90,North America
-USA,"Missouri, St. Louis",23:34:00,82,North America
-USA,"Montana, Billings",22:34:00,64,North America
-USA,"Nebraska, Lincoln",23:34:00,78,North America
-USA,"Nevada, Las Vegas",21:34:00,94,North America
-USA,"New Hampshire, Concord",00:34:00,68,North America
-USA,"New Jersey, Newark",00:34:00,75,North America
-USA,"New Mexico, Albuquerque",22:34:00,78,North America
-USA,"New York, New York",00:34:00,72,North America
-USA,"North Carolina, Raleigh",00:34:00,74,North America
-USA,"North Dakota, Bismarck",23:34:00,62,North America
-USA,"Ohio, Columbus",00:34:00,75,North America
-USA,"Oklahoma, Oklahoma City",23:34:00,84,North America
-USA,"Oregon, Portland",21:34:00,67,North America
-USA,"Oregon, Salem",21:34:00,68,North America
-USA,"Pennsylvania, Philadelphia",00:34:00,75,North America
-USA,"Rhode Island, Providence",00:34:00,70,North America
-USA,"South Carolina, Columbia",00:34:00,76,North America
-USA,"South Dakota, Rapid City",22:34:00,64,North America
-USA,"South Dakota, Sioux Falls",23:34:00,79,North America
-USA,"Tennessee, Knoxville",00:34:00,78,North America
-USA,"Tennessee, Nashville",23:34:00,82,North America
-USA,"Texas, Austin",23:34:00,87,North America
-USA,"Texas, Dallas",23:34:00,92,North America
-USA,"Texas, Houston",23:34:00,83,North America
-USA,"Texas, Midland",23:34:00,89,North America
-USA,"Utah, Salt Lake City",22:34:00,72,North America
-USA,"Vermont, Montpelier",00:34:00,58,North America
-USA,"Virginia, Richmond",00:34:00,76,North America
-USA,"Washington, Seattle",21:34:00,64,North America
-USA,"West Virginia, Charleston",00:34:00,73,North America
-USA,"Wisconsin, Madison",23:34:00,69,North America
-USA,"Wisconsin, Milwaukee",23:34:00,72,North America
-USA,"Wyoming, Cheyenne",22:34:00,62,North America
-Argentina,Buenos Aires,01:34:00,59,South America
-Argentina,"Córdoba, Córdoba",01:34:00,48,South America
-Bolivia,La Paz,00:34:00,40,South America
-Brazil,"Acre, Rio Branco",23:34:00,77,South America
-Brazil,"Amazonas, Manaus",00:34:00,86,South America
-Brazil,"Bahia, Salvador",01:34:00,77,South America
-Brazil,"Ceará, Fortaleza",01:34:00,81,South America
-Brazil,"Distrito Federal, Brasilia",01:34:00,70,South America
-Brazil,"Pará, Belém",01:34:00,79,South America
-Brazil,"Pernambuco, Recife",01:34:00,79,South America
-Brazil,"Rio de Janeiro, Rio de Janeiro",01:34:00,73,South America
-Brazil,"São Paulo, São Paulo",01:34:00,66,South America
-Chile,Easter Island,22:34:00,63,South America
-Chile,Punta Arenas,01:34:00,37,South America
-Chile,Santiago,00:34:00,50,South America
-Colombia,Bogota,23:34:00,59,South America
-Ecuador,Guayaquil,23:34:00,81,South America
-Ecuador,Quito,23:34:00,50,South America
-Falkland Islands,Stanley,01:34:00,39,South America
-French Guiana,Cayenne,01:34:00,81,South America
-Guyana,Georgetown,00:34:00,81,South America
-Paraguay,Asuncion,01:34:00,68,South America
-Peru,"Lima, Lima",23:34:00,72,South America
-Suriname,Paramaribo,01:34:00,81,South America
-Trinidad and Tobago,Port of Spain,00:34:00,82,South America
-Uruguay,Montevideo,01:34:00,50,South America
-Venezuela,Caracas,00:34:00,81,South America
+Algeria,Algiers,05:41:00,80,Africa
+Angola,Luanda,05:41:00,70,Africa
+Benin,Porto Novo,05:41:00,79,Africa
+Botswana,Gaborone,06:41:00,50,Africa
+Cameroon,Yaoundé,05:41:00,68,Africa
+Central African Republic,Bangui,05:41:00,72,Africa
+Chad,N'Djamena,05:41:00,81,Africa
+Comoros,Moroni,07:41:00,75,Africa
+Congo,Brazzaville,05:41:00,72,Africa
+Congo Dem. Rep.,Kinshasa,05:41:00,72,Africa
+Cote d'Ivoire (Ivory Coast),Abidjan,04:41:00,78,Africa
+Egypt,Cairo,07:41:00,77,Africa
+Equatorial Guinea,Malabo,05:41:00,75,Africa
+Eswatini,Mbabane,06:41:00,64,Africa
+Ethiopia,Addis Ababa,07:41:00,57,Africa
+Gabon,Libreville,05:41:00,79,Africa
+Gambia,Banjul,04:41:00,81,Africa
+Ghana,Accra,04:41:00,77,Africa
+Guinea,Conakry,04:41:00,79,Africa
+Guinea-Bissau,Bissau,04:41:00,81,Africa
+Kenya,Nairobi,07:41:00,57,Africa
+Liberia,Monrovia,04:41:00,75,Africa
+Madagascar,Antananarivo,07:41:00,57,Africa
+Malawi,Lilongwe,06:41:00,75,Africa
+Mali,Bamako,04:41:00,73,Africa
+Mauritius,Port Louis,08:41:00,63,Africa
+Morocco,Casablanca,05:41:00,73,Africa
+Morocco,Rabat,05:41:00,73,Africa
+Namibia,Windhoek,06:41:00,63,Africa
+Niger,Niamey,05:41:00,82,Africa
+Nigeria,"Lagos, Lagos",05:41:00,77,Africa
+Réunion (French),Saint-Denis,08:41:00,70,Africa
+Rwanda,Kigali,06:41:00,66,Africa
+Senegal,Dakar,04:41:00,79,Africa
+Seychelles,Victoria,08:41:00,79,Africa
+South Africa,Cape Town,06:41:00,57,Africa
+South Africa,Johannesburg,06:41:00,54,Africa
+South Africa,Pretoria,06:41:00,52,Africa
+Tanzania,Dar es Salaam,07:41:00,72,Africa
+Tanzania,Dodoma,07:41:00,63,Africa
+Togo,Lomé,04:41:00,79,Africa
+Tunisia,Tunis,05:41:00,75,Africa
+Uganda,Kampala,07:41:00,70,Africa
+Western Sahara,El Aaiún,05:41:00,75,Africa
+Zimbabwe,Harare,06:41:00,51,Africa
+Albania,Tirana,06:41:00,68,Europe
+Armenia,Yerevan,08:41:00,51,Europe
+Austria,"Vienna, Vienna",06:41:00,64,Europe
+Belarus,Minsk,07:41:00,50,Europe
+Belgium,"Brussels, Brussels",06:41:00,54,Europe
+Bosnia-Herzegovina,Sarajevo,06:41:00,54,Europe
+Bulgaria,Sofia,07:41:00,58,Europe
+Croatia,Zagreb,06:41:00,57,Europe
+Cyprus,Nicosia,07:41:00,68,Europe
+Czechia,Prague,06:41:00,64,Europe
+Denmark,Copenhagen,06:41:00,57,Europe
+Estonia,Tallinn,07:41:00,59,Europe
+Faroe Islands,Tórshavn,05:41:00,39,Europe
+Finland,Helsinki,07:41:00,61,Europe
+Finland,Kemi,07:41:00,48,Europe
+Finland,Rovaniemi,07:41:00,46,Europe
+France,"Paris, Paris",06:41:00,52,Europe
+Georgia,Tbilisi,08:41:00,54,Europe
+Germany,"Berlin, Berlin",06:41:00,68,Europe
+Germany,"Hesse, Frankfurt",06:41:00,61,Europe
+Gibraltar,"Gibraltar, Gibraltar",06:41:00,77,Europe
+Greece,Athens,07:41:00,73,Europe
+Hungary,Budapest,06:41:00,64,Europe
+Iceland,Reykjavik,04:41:00,50,Europe
+Ireland,Dublin,05:41:00,50,Europe
+Isle of Man,Douglas,05:41:00,55,Europe
+Italy,Milan,06:41:00,72,Europe
+Italy,Rome,06:41:00,73,Europe
+Kosovo,Pristina,06:41:00,57,Europe
+Latvia,Riga,07:41:00,59,Europe
+Liechtenstein,Vaduz,06:41:00,64,Europe
+Lithuania,Vilnius,07:41:00,54,Europe
+Luxembourg,Luxembourg,06:41:00,52,Europe
+Malta,Valletta,06:41:00,75,Europe
+Moldova,Chișinău,07:41:00,59,Europe
+Monaco,Monaco,06:41:00,75,Europe
+Montenegro,Podgorica,06:41:00,68,Europe
+Netherlands,Amsterdam,06:41:00,59,Europe
+North Macedonia,Skopje,06:41:00,59,Europe
+Norway,"Svalbard, Longyearbyen",06:41:00,39,Europe
+Norway,Oslo,06:41:00,46,Europe
+Norway,Tromsø,06:41:00,50,Europe
+Poland,Warsaw,06:41:00,59,Europe
+Portugal,"Azores, Ponta Delgada",04:41:00,73,Europe
+Portugal,"Lisbon, Lisbon",05:41:00,68,Europe
+Romania,Bucharest,07:41:00,54,Europe
+Russia,Belushya Guba,07:41:00,39,Europe
+Russia,Kaliningrad,06:41:00,61,Europe
+Russia,Moscow,07:41:00,42,Europe
+Russia,Murmansk,07:41:00,48,Europe
+Russia,Novgorod,07:41:00,55,Europe
+Russia,Saint Petersburg,07:41:00,57,Europe
+Russia,Samara,08:41:00,52,Europe
+Russia,Kazan,07:41:00,54,Europe
+Russia,Izhevsk,08:41:00,54,Europe
+San Marino,San Marino,06:41:00,77,Europe
+Serbia,Belgrade,06:41:00,66,Europe
+Slovakia,Bratislava,06:41:00,64,Europe
+Slovenia,Ljubljana,06:41:00,57,Europe
+Spain,"Barcelona, Barcelona",06:41:00,79,Europe
+Spain,"Madrid, Madrid",06:41:00,68,Europe
+Spain,"Majorca, Palma",06:41:00,77,Europe
+Sweden,Stockholm,06:41:00,55,Europe
+Switzerland,"Bern, Bern",06:41:00,64,Europe
+Switzerland,"Geneva, Geneva",06:41:00,70,Europe
+Switzerland,"Zurich, Zürich",06:41:00,64,Europe
+Turkey,Istanbul,07:41:00,70,Europe
+Ukraine,Kyiv,07:41:00,53,Europe
+United Kingdom,"England, London",05:41:00,52,Europe
+United Kingdom,"Northern Ireland, Belfast",05:41:00,54,Europe
+United Kingdom,"Scotland, Edinburgh",05:41:00,50,Europe
+United Kingdom,"Scotland, Glasgow",05:41:00,54,Europe
+United Kingdom,"Wales, Cardiff",05:41:00,52,Europe
+Vatican City State,Vatican City,06:41:00,73,Europe
+Antigua and Barbuda,Saint John's,00:41:00,84,North America
+Bahamas,Nassau,00:41:00,79,North America
+Barbados,Bridgetown,00:41:00,82,North America
+Belize,Belmopan,22:41:00,87,North America
+Bermuda,Hamilton,01:41:00,77,North America
+Canada,"Alberta, Calgary",22:41:00,63,North America
+Canada,"Alberta, Edmonton",22:41:00,52,North America
+Canada,"British Columbia, Vancouver",21:41:00,61,North America
+Canada,"Manitoba, Winnipeg",23:41:00,60,North America
+Canada,"New Brunswick, Saint John",01:41:00,43,North America
+Canada,"Newfoundland and Labrador, Happy Valley-Goose Bay",01:41:00,45,North America
+Canada,"Newfoundland and Labrador, Mary's Harbour",02:11:00,39,North America
+Canada,"Newfoundland and Labrador, St. John's",02:11:00,50,North America
+Canada,"Northwest Territories, Inuvik",22:41:00,54,North America
+Canada,"Northwest Territories, Yellowknife",22:41:00,57,North America
+Canada,"Nova Scotia, Halifax",01:41:00,48,North America
+Canada,"Nunavut, Baker Lake",23:41:00,51,North America
+Canada,"Nunavut, Coral Harbour",23:41:00,41,North America
+Canada,"Nunavut, Eureka",23:41:00,30,North America
+Canada,"Nunavut, Pond Inlet",00:41:00,32,North America
+Canada,"Nunavut, Resolute Bay",23:41:00,30,North America
+Canada,"Ontario, Ottawa",00:41:00,61,North America
+Canada,"Ontario, Toronto",00:41:00,70,North America
+Canada,"Quebec, Blanc-Sablon",00:41:00,45,North America
+Canada,"Quebec, Chibougamau",00:41:00,50,North America
+Canada,"Quebec, Kuujjuaq",00:41:00,41,North America
+Canada,"Quebec, Montréal",00:41:00,63,North America
+Canada,"Quebec, Québec",00:41:00,52,North America
+Canada,"Saskatchewan, Regina",22:41:00,57,North America
+Canada,"Yukon, Whitehorse",21:41:00,52,North America
+Cayman Islands,"Grand Cayman, George Town",23:41:00,88,North America
+Costa Rica,San Jose,22:41:00,75,North America
+Cuba,Havana,00:41:00,73,North America
+Dominica,Roseau,00:41:00,81,North America
+Dominican Republic,Santo Domingo,00:41:00,84,North America
+El Salvador,San Salvador,22:41:00,82,North America
+Grenada,Saint George's,00:41:00,84,North America
+Guadeloupe,"Guadeloupe, Basse-Terre",00:41:00,82,North America
+Guam,Hagåtña,14:41:00,86,North America
+Guatemala,Guatemala City,22:41:00,68,North America
+Honduras,Tegucigalpa,22:41:00,75,North America
+Jamaica,Kingston,23:41:00,85,North America
+Martinique,Fort-de-France,00:41:00,84,North America
+Mexico,"Aguascalientes, Aguascalientes",22:41:00,63,North America
+Mexico,"Baja California, Mexicali",21:41:00,96,North America
+Mexico,"Baja California, Tijuana",21:41:00,86,North America
+Mexico,"Ciudad de México, Mexico City",22:41:00,63,North America
+Mexico,"Guerrero, Acapulco",22:41:00,84,North America
+Mexico,"Jalisco, Guadalajara",22:41:00,63,North America
+Mexico,"Quintana Roo, Cancún",23:41:00,82,North America
+Mexico,"Sinaloa, Mazatlan",21:41:00,79,North America
+Mexico,"Sonora, Hermosillo",21:41:00,91,North America
+Mexico,"Veracruz, Veracruz",22:41:00,84,North America
+Nicaragua,Managua,22:41:00,84,North America
+Panama,Panama,23:41:00,82,North America
+Puerto Rico,San Juan,00:41:00,81,North America
+Saint Kitts and Nevis,Basseterre,00:41:00,84,North America
+Saint Lucia,Castries,00:41:00,80,North America
+Saint Vincent and Grenadines,Kingstown,00:41:00,82,North America
+US Minor Outlying Islands,Wake Island,16:41:00,89,North America
+USA,"Alabama, Montgomery",23:41:00,77,North America
+USA,"Alaska, Anchorage",20:41:00,56,North America
+USA,"Alaska, Fairbanks",20:41:00,55,North America
+USA,"Alaska, Juneau",20:41:00,55,North America
+USA,"Alaska, Unalaska",20:41:00,54,North America
+USA,"Arizona, Phoenix",21:41:00,103,North America
+USA,"Arkansas, Little Rock",23:41:00,83,North America
+USA,"California, Los Angeles",21:41:00,84,North America
+USA,"California, Sacramento",21:41:00,80,North America
+USA,"California, San Diego",21:41:00,84,North America
+USA,"California, San Francisco",21:41:00,73,North America
+USA,"California, San Jose",21:41:00,78,North America
+USA,"Colorado, Denver",22:41:00,65,North America
+USA,"Connecticut, Hartford",00:41:00,65,North America
+USA,"Delaware, Dover",00:41:00,70,North America
+USA,"District of Columbia, Washington DC",00:41:00,74,North America
+USA,"Florida, Miami",00:41:00,81,North America
+USA,"Florida, Orlando",00:41:00,79,North America
+USA,"Florida, Pensacola",23:41:00,83,North America
+USA,"Georgia, Atlanta",00:41:00,71,North America
+USA,"Hawaii, Honolulu",18:41:00,82,North America
+USA,"Idaho, Boise",22:41:00,63,North America
+USA,"Illinois, Chicago",23:41:00,79,North America
+USA,"Indiana, Indianapolis",00:41:00,79,North America
+USA,"Iowa, Des Moines",23:41:00,71,North America
+USA,"Kansas, Topeka",23:41:00,89,North America
+USA,"Kentucky, Louisville",00:41:00,80,North America
+USA,"Louisiana, New Orleans",23:41:00,83,North America
+USA,"Maine, Augusta",00:41:00,57,North America
+USA,"Maryland, Baltimore",00:41:00,71,North America
+USA,"Massachusetts, Boston",00:41:00,65,North America
+USA,"Michigan, Detroit",00:41:00,73,North America
+USA,"Minnesota, Minneapolis",23:41:00,78,North America
+USA,"Minnesota, Saint Paul",23:41:00,73,North America
+USA,"Mississippi, Jackson",23:41:00,76,North America
+USA,"Missouri, Kansas City",23:41:00,91,North America
+USA,"Missouri, St. Louis",23:41:00,86,North America
+USA,"Montana, Billings",22:41:00,57,North America
+USA,"Nebraska, Lincoln",23:41:00,74,North America
+USA,"Nevada, Las Vegas",21:41:00,95,North America
+USA,"New Hampshire, Concord",00:41:00,60,North America
+USA,"New Jersey, Newark",00:41:00,71,North America
+USA,"New Mexico, Albuquerque",22:41:00,79,North America
+USA,"New York, New York",00:41:00,72,North America
+USA,"North Carolina, Raleigh",00:41:00,71,North America
+USA,"North Dakota, Bismarck",23:41:00,67,North America
+USA,"Ohio, Columbus",00:41:00,74,North America
+USA,"Oklahoma, Oklahoma City",23:41:00,87,North America
+USA,"Oregon, Portland",21:41:00,72,North America
+USA,"Oregon, Salem",21:41:00,69,North America
+USA,"Pennsylvania, Philadelphia",00:41:00,74,North America
+USA,"Rhode Island, Providence",00:41:00,66,North America
+USA,"South Carolina, Columbia",00:41:00,76,North America
+USA,"South Dakota, Rapid City",22:41:00,70,North America
+USA,"South Dakota, Sioux Falls",23:41:00,68,North America
+USA,"Tennessee, Knoxville",00:41:00,76,North America
+USA,"Tennessee, Nashville",23:41:00,79,North America
+USA,"Texas, Austin",23:41:00,88,North America
+USA,"Texas, Dallas",23:41:00,91,North America
+USA,"Texas, Houston",23:41:00,84,North America
+USA,"Texas, Midland",23:41:00,88,North America
+USA,"Utah, Salt Lake City",22:41:00,71,North America
+USA,"Vermont, Montpelier",00:41:00,52,North America
+USA,"Virginia, Richmond",00:41:00,69,North America
+USA,"Washington, Seattle",21:41:00,66,North America
+USA,"West Virginia, Charleston",00:41:00,70,North America
+USA,"Wisconsin, Madison",23:41:00,72,North America
+USA,"Wisconsin, Milwaukee",23:41:00,70,North America
+USA,"Wyoming, Cheyenne",22:41:00,67,North America
+Argentina,Buenos Aires,01:42:00,59,South America
+Argentina,"Córdoba, Córdoba",01:42:00,49,South America
+Bolivia,La Paz,00:42:00,39,South America
+Brazil,"Acre, Rio Branco",23:42:00,72,South America
+Brazil,"Amazonas, Manaus",00:42:00,86,South America
+Brazil,"Bahia, Salvador",01:42:00,79,South America
+Brazil,"Ceará, Fortaleza",01:42:00,81,South America
+Brazil,"Distrito Federal, Brasilia",01:42:00,72,South America
+Brazil,"Pará, Belém",01:42:00,79,South America
+Brazil,"Pernambuco, Recife",01:42:00,79,South America
+Brazil,"Rio de Janeiro, Rio de Janeiro",01:42:00,70,South America
+Brazil,"São Paulo, São Paulo",01:42:00,63,South America
+Chile,Easter Island,23:42:00,66,South America
+Chile,Punta Arenas,01:42:00,41,South America
+Chile,Santiago,01:42:00,48,South America
+Colombia,Bogota,23:42:00,59,South America
+Ecuador,Guayaquil,23:42:00,81,South America
+Ecuador,Quito,23:42:00,50,South America
+Falkland Islands,Stanley,01:42:00,37,South America
+French Guiana,Cayenne,01:42:00,79,South America
+Guyana,Georgetown,00:42:00,86,South America
+Paraguay,Asuncion,01:42:00,64,South America
+Peru,"Lima, Lima",23:42:00,73,South America
+Suriname,Paramaribo,01:42:00,75,South America
+Trinidad and Tobago,Port of Spain,00:42:00,81,South America
+Uruguay,Montevideo,01:42:00,48,South America
+Venezuela,Caracas,00:42:00,82,South America
