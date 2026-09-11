@@ -12,7 +12,6 @@ conn = sqlite3.connect('db/weather_data.db')
 conn.execute('PRAGMA foreign_keys = ON;')
 
 cursor= conn.cursor()
-
 ##create the tables
 #continent table
 cursor.execute('''CREATE TABLE IF NOT EXISTS continent (
@@ -27,6 +26,8 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS weather (
     city_name TEXT NOT NULL,
     weather INTEGER NOT NULL,
     time TEXT NOT NULL,
+    collected_date TEXT NOT NULL,
+    collected_time TEXT NOT NULL,
     continent_id INTEGER NOT NULL,
     FOREIGN KEY (continent_id) REFERENCES continent(id)
 );''')
@@ -46,7 +47,7 @@ for index, row in df.iterrows():
     #get the continent_id from the continent table
     continent_id = cursor.execute('SELECT id FROM continent WHERE name = ?', (row['Continent'],)).fetchone()[0]
     #insert the data into the weather table
-    cursor.execute('INSERT INTO weather (country_name, city_name, weather, time, continent_id) VALUES (?, ?, ?, ?, ?)', (row['Country'], row['City'], row['Weather'], row['Time'], continent_id))
+    cursor.execute('INSERT INTO weather (country_name, city_name, weather, time, collected_date, collected_time, continent_id) VALUES (?, ?, ?, ?, ?, ?, ?)', (row['Country'], row['City'], row['Weather'], row['Time'], row['Collected Date'], row['Collected Time'], continent_id))
 
 conn.commit()
 
