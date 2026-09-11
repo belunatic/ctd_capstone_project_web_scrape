@@ -26,8 +26,9 @@ df_south_america = df[df['Continent'] == 'South America']
 #get a list of unique continents from the data frame
 continents_list = df['Continent'].unique().tolist()
 #add another option to the list of continents for all continents
-continents_list.append('All Continents')
 continents_list.sort()
+#add to the front of the list
+continents_list.insert(0,'All Continents')
 
 #since the collected date and time are the same for all rows, we can get the first row's collected date and time
 collected_date = df['Collected_Date'].iloc[0]
