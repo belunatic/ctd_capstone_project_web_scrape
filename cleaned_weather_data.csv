@@ -1,284 +1,284 @@
 Country,City,Time,Weather,Continent,Collected Date,Collected Time
-Algeria,Algiers,22:07:00,81,Africa,2026-09-11,14:07:50
-Angola,Luanda,22:07:00,70,Africa,2026-09-11,14:07:50
-Benin,Porto Novo,22:07:00,79,Africa,2026-09-11,14:07:50
-Botswana,Gaborone,23:07:00,59,Africa,2026-09-11,14:07:50
-Burundi,Bujumbura,23:07:00,79,Africa,2026-09-11,14:07:50
-Burundi,Gitega,23:07:00,79,Africa,2026-09-11,14:07:50
-Cameroon,Yaoundé,22:07:00,72,Africa,2026-09-11,14:07:50
-Central African Republic,Bangui,22:07:00,77,Africa,2026-09-11,14:07:50
-Chad,N'Djamena,22:07:00,82,Africa,2026-09-11,14:07:50
-Comoros,Moroni,00:07:00,77,Africa,2026-09-11,14:07:50
-Congo,Brazzaville,22:07:00,79,Africa,2026-09-11,14:07:50
-Congo Dem. Rep.,Kinshasa,22:07:00,79,Africa,2026-09-11,14:07:50
-Cote d'Ivoire (Ivory Coast),Abidjan,21:07:00,78,Africa,2026-09-11,14:07:50
-Egypt,Cairo,00:07:00,79,Africa,2026-09-11,14:07:50
-Equatorial Guinea,Malabo,22:07:00,77,Africa,2026-09-11,14:07:50
-Eswatini,Mbabane,23:07:00,77,Africa,2026-09-11,14:07:50
-Ethiopia,Addis Ababa,00:07:00,61,Africa,2026-09-11,14:07:50
-Gabon,Libreville,22:07:00,79,Africa,2026-09-11,14:07:50
-Gambia,Banjul,21:07:00,82,Africa,2026-09-11,14:07:50
-Ghana,Accra,21:07:00,77,Africa,2026-09-11,14:07:50
-Guinea,Conakry,21:07:00,81,Africa,2026-09-11,14:07:50
-Guinea-Bissau,Bissau,21:07:00,82,Africa,2026-09-11,14:07:50
-Kenya,Nairobi,00:07:00,64,Africa,2026-09-11,14:07:50
-Lesotho,Maseru,23:07:00,77,Africa,2026-09-11,14:07:50
-Liberia,Monrovia,21:07:00,75,Africa,2026-09-11,14:07:50
-Madagascar,Antananarivo,00:07:00,59,Africa,2026-09-11,14:07:50
-Malawi,Lilongwe,23:07:00,80,Africa,2026-09-11,14:07:50
-Mali,Bamako,21:07:00,81,Africa,2026-09-11,14:07:50
-Mauritius,Port Louis,01:07:00,64,Africa,2026-09-11,14:07:50
-Morocco,Casablanca,22:07:00,79,Africa,2026-09-11,14:07:50
-Morocco,Rabat,22:07:00,75,Africa,2026-09-11,14:07:50
-Namibia,Windhoek,23:07:00,74,Africa,2026-09-11,14:07:50
-Niger,Niamey,22:07:00,88,Africa,2026-09-11,14:07:50
-Nigeria,"Lagos, Lagos",22:07:00,79,Africa,2026-09-11,14:07:50
-Réunion (French),Saint-Denis,01:07:00,70,Africa,2026-09-11,14:07:50
-Rwanda,Kigali,23:07:00,77,Africa,2026-09-11,14:07:50
-Sao Tome and Principe,São Tomé,21:07:00,82,Africa,2026-09-11,14:07:50
-Senegal,Dakar,21:07:00,84,Africa,2026-09-11,14:07:50
-Seychelles,Victoria,01:07:00,82,Africa,2026-09-11,14:07:50
-Sierra Leone,Freetown,21:07:00,79,Africa,2026-09-11,14:07:50
-South Africa,Cape Town,23:07:00,63,Africa,2026-09-11,14:07:50
-South Africa,Johannesburg,23:07:00,65,Africa,2026-09-11,14:07:50
-South Africa,Marion Island (Prince Edward Islands),00:07:00,34,Africa,2026-09-11,14:07:50
-South Africa,Pretoria,23:07:00,61,Africa,2026-09-11,14:07:50
-Tanzania,Dar es Salaam,00:07:00,73,Africa,2026-09-11,14:07:50
-Tanzania,Dodoma,00:07:00,73,Africa,2026-09-11,14:07:50
-Togo,Lomé,21:07:00,79,Africa,2026-09-11,14:07:50
-Tunisia,Tunis,22:07:00,79,Africa,2026-09-11,14:07:50
-Uganda,Kampala,00:07:00,78,Africa,2026-09-11,14:07:50
-Western Sahara,El Aaiún,22:07:00,73,Africa,2026-09-11,14:07:50
-Zimbabwe,Harare,23:07:00,69,Africa,2026-09-11,14:07:50
-Albania,Tirana,23:08:00,77,Europe,2026-09-11,14:08:00
-Armenia,Yerevan,01:08:00,72,Europe,2026-09-11,14:08:00
-Austria,"Vienna, Vienna",23:08:00,54,Europe,2026-09-11,14:08:00
-Belarus,Minsk,00:08:00,50,Europe,2026-09-11,14:08:00
-Belgium,"Brussels, Brussels",23:08:00,63,Europe,2026-09-11,14:08:00
-Bosnia-Herzegovina,Sarajevo,23:08:00,64,Europe,2026-09-11,14:08:00
-Bulgaria,Sofia,00:08:00,78,Europe,2026-09-11,14:08:00
-Croatia,Zagreb,23:08:00,55,Europe,2026-09-11,14:08:00
-Cyprus,Nicosia,00:08:00,75,Europe,2026-09-11,14:08:00
-Czechia,Prague,23:08:00,55,Europe,2026-09-11,14:08:00
-Denmark,Copenhagen,23:08:00,59,Europe,2026-09-11,14:08:00
-Estonia,Tallinn,00:08:00,52,Europe,2026-09-11,14:08:00
-Faroe Islands,Tórshavn,22:08:00,52,Europe,2026-09-11,14:08:00
-Finland,Helsinki,00:08:00,50,Europe,2026-09-11,14:08:00
-Finland,Kemi,00:08:00,50,Europe,2026-09-11,14:08:00
-Finland,Rovaniemi,00:08:00,46,Europe,2026-09-11,14:08:00
-France,"Paris, Paris",23:08:00,66,Europe,2026-09-11,14:08:00
-Georgia,Tbilisi,01:08:00,66,Europe,2026-09-11,14:08:00
-Germany,"Berlin, Berlin",23:08:00,59,Europe,2026-09-11,14:08:00
-Germany,"Hesse, Frankfurt",23:08:00,66,Europe,2026-09-11,14:08:00
-Gibraltar,"Gibraltar, Gibraltar",23:08:00,72,Europe,2026-09-11,14:08:00
-Greece,Athens,00:08:00,83,Europe,2026-09-11,14:08:00
-Hungary,Budapest,23:08:00,57,Europe,2026-09-11,14:08:00
-Iceland,Reykjavik,21:08:00,46,Europe,2026-09-11,14:08:00
-Ireland,Dublin,22:08:00,55,Europe,2026-09-11,14:08:00
-Isle of Man,Douglas,22:08:00,57,Europe,2026-09-11,14:08:00
-Italy,Milan,23:08:00,72,Europe,2026-09-11,14:08:00
-Italy,Rome,23:08:00,77,Europe,2026-09-11,14:08:00
-Kosovo,Pristina,23:08:00,83,Europe,2026-09-11,14:08:00
-Latvia,Riga,00:08:00,50,Europe,2026-09-11,14:08:00
-Liechtenstein,Vaduz,23:08:00,54,Europe,2026-09-11,14:08:00
-Lithuania,Vilnius,00:08:00,48,Europe,2026-09-11,14:08:00
-Luxembourg,Luxembourg,23:08:00,66,Europe,2026-09-11,14:08:00
-Malta,Valletta,23:08:00,81,Europe,2026-09-11,14:08:00
-Moldova,Chișinău,00:08:00,72,Europe,2026-09-11,14:08:00
-Monaco,Monaco,23:08:00,73,Europe,2026-09-11,14:08:00
-Montenegro,Podgorica,23:08:00,79,Europe,2026-09-11,14:08:00
-Netherlands,Amsterdam,23:08:00,59,Europe,2026-09-11,14:08:00
-North Macedonia,Skopje,23:08:00,79,Europe,2026-09-11,14:08:00
-Norway,"Svalbard, Longyearbyen",23:08:00,39,Europe,2026-09-11,14:08:00
-Norway,Oslo,23:08:00,54,Europe,2026-09-11,14:08:00
-Norway,Tromsø,23:08:00,52,Europe,2026-09-11,14:08:00
-Poland,Warsaw,23:08:00,55,Europe,2026-09-11,14:08:00
-Portugal,"Azores, Ponta Delgada",21:08:00,75,Europe,2026-09-11,14:08:00
-Portugal,"Lisbon, Lisbon",22:08:00,75,Europe,2026-09-11,14:08:00
-Romania,Bucharest,00:08:00,68,Europe,2026-09-11,14:08:00
-Russia,Belushya Guba,00:08:00,41,Europe,2026-09-11,14:08:00
-Russia,Kaliningrad,23:08:00,50,Europe,2026-09-11,14:08:00
-Russia,Moscow,00:08:00,53,Europe,2026-09-11,14:08:00
-Russia,Murmansk,00:08:00,46,Europe,2026-09-11,14:08:00
-Russia,Novgorod,00:08:00,51,Europe,2026-09-11,14:08:00
-Russia,Saint Petersburg,00:08:00,55,Europe,2026-09-11,14:08:00
-Russia,Samara,01:08:00,54,Europe,2026-09-11,14:08:00
-Russia,Kazan,00:08:00,54,Europe,2026-09-11,14:08:00
-Russia,Izhevsk,01:08:00,53,Europe,2026-09-11,14:08:00
-San Marino,San Marino,23:08:00,72,Europe,2026-09-11,14:08:00
-Serbia,Belgrade,23:08:00,64,Europe,2026-09-11,14:08:00
-Slovakia,Bratislava,23:08:00,57,Europe,2026-09-11,14:08:00
-Slovenia,Ljubljana,23:08:00,57,Europe,2026-09-11,14:08:00
-Spain,"Barcelona, Barcelona",23:08:00,75,Europe,2026-09-11,14:08:00
-Spain,"Madrid, Madrid",23:08:00,72,Europe,2026-09-11,14:08:00
-Spain,"Majorca, Palma",23:08:00,72,Europe,2026-09-11,14:08:00
-Sweden,Stockholm,23:08:00,55,Europe,2026-09-11,14:08:00
-Switzerland,"Bern, Bern",23:08:00,52,Europe,2026-09-11,14:08:00
-Switzerland,"Geneva, Geneva",23:08:00,61,Europe,2026-09-11,14:08:00
-Switzerland,"Zurich, Zürich",23:08:00,52,Europe,2026-09-11,14:08:00
-Turkey,Istanbul,00:08:00,72,Europe,2026-09-11,14:08:00
-Ukraine,Kyiv,00:08:00,65,Europe,2026-09-11,14:08:00
-United Kingdom,"England, London",22:08:00,63,Europe,2026-09-11,14:08:00
-United Kingdom,"Northern Ireland, Belfast",22:08:00,57,Europe,2026-09-11,14:08:00
-United Kingdom,"Scotland, Edinburgh",22:08:00,52,Europe,2026-09-11,14:08:00
-United Kingdom,"Scotland, Glasgow",22:08:00,55,Europe,2026-09-11,14:08:00
-United Kingdom,"Wales, Cardiff",22:08:00,57,Europe,2026-09-11,14:08:00
-Vatican City State,Vatican City,23:08:00,77,Europe,2026-09-11,14:08:00
-Antigua and Barbuda,Saint John's,17:08:00,88,North America,2026-09-11,14:08:11
-Bahamas,Nassau,17:08:00,90,North America,2026-09-11,14:08:11
-Barbados,Bridgetown,17:08:00,86,North America,2026-09-11,14:08:11
-Belize,Belmopan,15:08:00,90,North America,2026-09-11,14:08:11
-Bermuda,Hamilton,18:08:00,82,North America,2026-09-11,14:08:11
-Canada,"Alberta, Calgary",15:08:00,54,North America,2026-09-11,14:08:11
-Canada,"Alberta, Edmonton",15:08:00,52,North America,2026-09-11,14:08:11
-Canada,"British Columbia, Vancouver",14:08:00,64,North America,2026-09-11,14:08:11
-Canada,"Manitoba, Winnipeg",16:08:00,70,North America,2026-09-11,14:08:11
-Canada,"New Brunswick, Saint John",18:08:00,64,North America,2026-09-11,14:08:11
-Canada,"Newfoundland and Labrador, Happy Valley-Goose Bay",18:08:00,46,North America,2026-09-11,14:08:11
-Canada,"Newfoundland and Labrador, Mary's Harbour",18:38:00,54,North America,2026-09-11,14:08:11
-Canada,"Newfoundland and Labrador, St. John's",18:38:00,61,North America,2026-09-11,14:08:11
-Canada,"Northwest Territories, Inuvik",15:08:00,55,North America,2026-09-11,14:08:11
-Canada,"Northwest Territories, Yellowknife",15:08:00,52,North America,2026-09-11,14:08:11
-Canada,"Nova Scotia, Halifax",18:08:00,63,North America,2026-09-11,14:08:11
-Canada,"Nunavut, Alert",17:08:00,19,North America,2026-09-11,14:08:11
-Canada,"Nunavut, Baker Lake",16:08:00,43,North America,2026-09-11,14:08:11
-Canada,"Nunavut, Coral Harbour",16:08:00,43,North America,2026-09-11,14:08:11
-Canada,"Nunavut, Eureka",16:08:00,25,North America,2026-09-11,14:08:11
-Canada,"Nunavut, Pond Inlet",17:08:00,37,North America,2026-09-11,14:08:11
-Canada,"Nunavut, Resolute Bay",16:08:00,28,North America,2026-09-11,14:08:11
-Canada,"Ontario, Ottawa",17:08:00,66,North America,2026-09-11,14:08:11
-Canada,"Ontario, Toronto",17:08:00,72,North America,2026-09-11,14:08:11
-Canada,"Quebec, Blanc-Sablon",17:08:00,55,North America,2026-09-11,14:08:11
-Canada,"Quebec, Chibougamau",17:08:00,61,North America,2026-09-11,14:08:11
-Canada,"Quebec, Kuujjuaq",17:08:00,48,North America,2026-09-11,14:08:11
-Canada,"Quebec, Montréal",17:08:00,66,North America,2026-09-11,14:08:11
-Canada,"Quebec, Québec",17:08:00,64,North America,2026-09-11,14:08:11
-Canada,"Saskatchewan, Regina",15:08:00,57,North America,2026-09-11,14:08:11
-Canada,"Yukon, Whitehorse",14:08:00,50,North America,2026-09-11,14:08:11
-Cayman Islands,"Grand Cayman, George Town",16:08:00,90,North America,2026-09-11,14:08:11
-Costa Rica,San Jose,15:08:00,72,North America,2026-09-11,14:08:11
-Cuba,Havana,17:08:00,91,North America,2026-09-11,14:08:11
-Dominica,Roseau,17:08:00,90,North America,2026-09-11,14:08:11
-Dominican Republic,Santo Domingo,17:08:00,92,North America,2026-09-11,14:08:11
-El Salvador,San Salvador,15:08:00,90,North America,2026-09-11,14:08:11
-Grenada,Saint George's,17:08:00,90,North America,2026-09-11,14:08:11
-Guadeloupe,"Guadeloupe, Basse-Terre",17:08:00,88,North America,2026-09-11,14:08:11
-Guam,Hagåtña,07:08:00,79,North America,2026-09-11,14:08:11
-Guatemala,Guatemala City,15:08:00,82,North America,2026-09-11,14:08:11
-Haiti,Port-au-Prince,17:08:00,99,North America,2026-09-11,14:08:11
-Honduras,Tegucigalpa,15:08:00,90,North America,2026-09-11,14:08:11
-Jamaica,Kingston,16:08:00,89,North America,2026-09-11,14:08:11
-Martinique,Fort-de-France,17:08:00,88,North America,2026-09-11,14:08:11
-Mexico,"Aguascalientes, Aguascalientes",15:08:00,79,North America,2026-09-11,14:08:11
-Mexico,"Baja California, Mexicali",14:08:00,107,North America,2026-09-11,14:08:11
-Mexico,"Baja California, Tijuana",14:08:00,90,North America,2026-09-11,14:08:11
-Mexico,"Ciudad de México, Mexico City",15:08:00,77,North America,2026-09-11,14:08:11
-Mexico,"Guerrero, Acapulco",15:08:00,91,North America,2026-09-11,14:08:11
-Mexico,"Jalisco, Guadalajara",15:08:00,81,North America,2026-09-11,14:08:11
-Mexico,"Quintana Roo, Cancún",16:08:00,91,North America,2026-09-11,14:08:11
-Mexico,"Sinaloa, Mazatlan",14:08:00,91,North America,2026-09-11,14:08:11
-Mexico,"Sonora, Hermosillo",14:08:00,99,North America,2026-09-11,14:08:11
-Mexico,"Veracruz, Veracruz",15:08:00,91,North America,2026-09-11,14:08:11
-Nicaragua,Managua,15:08:00,95,North America,2026-09-11,14:08:11
-Panama,Panama,16:08:00,82,North America,2026-09-11,14:08:11
-Puerto Rico,San Juan,17:08:00,89,North America,2026-09-11,14:08:11
-Saint Kitts and Nevis,Basseterre,17:08:00,86,North America,2026-09-11,14:08:11
-Saint Lucia,Castries,17:08:00,86,North America,2026-09-11,14:08:11
-Saint Vincent and Grenadines,Kingstown,17:08:00,86,North America,2026-09-11,14:08:11
-US Minor Outlying Islands,Wake Island,09:08:00,84,North America,2026-09-11,14:08:11
-USA,"Alabama, Montgomery",16:08:00,81,North America,2026-09-11,14:08:11
-USA,"Alaska, Anchorage",13:08:00,56,North America,2026-09-11,14:08:11
-USA,"Alaska, Fairbanks",13:08:00,52,North America,2026-09-11,14:08:11
-USA,"Alaska, Juneau",13:08:00,62,North America,2026-09-11,14:08:11
-USA,"Alaska, Unalaska",13:08:00,66,North America,2026-09-11,14:08:11
-USA,"Arizona, Phoenix",14:08:00,101,North America,2026-09-11,14:08:11
-USA,"Arkansas, Little Rock",16:08:00,83,North America,2026-09-11,14:08:11
-USA,"California, Los Angeles",14:08:00,88,North America,2026-09-11,14:08:11
-USA,"California, Sacramento",14:08:00,85,North America,2026-09-11,14:08:11
-USA,"California, San Diego",14:08:00,78,North America,2026-09-11,14:08:11
-USA,"California, San Francisco",14:08:00,70,North America,2026-09-11,14:08:11
-USA,"California, San Jose",14:08:00,78,North America,2026-09-11,14:08:11
-USA,"Colorado, Denver",15:08:00,89,North America,2026-09-11,14:08:11
-USA,"Connecticut, Hartford",17:08:00,77,North America,2026-09-11,14:08:11
-USA,"Delaware, Dover",17:08:00,77,North America,2026-09-11,14:08:11
-USA,"District of Columbia, Washington DC",17:08:00,81,North America,2026-09-11,14:08:11
-USA,"Florida, Miami",17:08:00,87,North America,2026-09-11,14:08:11
-USA,"Florida, Orlando",17:08:00,83,North America,2026-09-11,14:08:11
-USA,"Florida, Pensacola",16:08:00,81,North America,2026-09-11,14:08:11
-USA,"Georgia, Atlanta",17:08:00,77,North America,2026-09-11,14:08:11
-USA,"Hawaii, Honolulu",11:08:00,85,North America,2026-09-11,14:08:11
-USA,"Idaho, Boise",15:08:00,76,North America,2026-09-11,14:08:11
-USA,"Illinois, Chicago",16:08:00,80,North America,2026-09-11,14:08:11
-USA,"Indiana, Indianapolis",17:08:00,81,North America,2026-09-11,14:08:11
-USA,"Iowa, Des Moines",16:08:00,83,North America,2026-09-11,14:08:11
-USA,"Kansas, Topeka",16:08:00,87,North America,2026-09-11,14:08:11
-USA,"Kentucky, Louisville",17:08:00,79,North America,2026-09-11,14:08:11
-USA,"Louisiana, New Orleans",16:08:00,82,North America,2026-09-11,14:08:11
-USA,"Maine, Augusta",17:08:00,70,North America,2026-09-11,14:08:11
-USA,"Maryland, Baltimore",17:08:00,78,North America,2026-09-11,14:08:11
-USA,"Massachusetts, Boston",17:08:00,78,North America,2026-09-11,14:08:11
-USA,"Michigan, Detroit",17:08:00,76,North America,2026-09-11,14:08:11
-USA,"Minnesota, Minneapolis",16:08:00,85,North America,2026-09-11,14:08:11
-USA,"Minnesota, Saint Paul",16:08:00,87,North America,2026-09-11,14:08:11
-USA,"Mississippi, Jackson",16:08:00,86,North America,2026-09-11,14:08:11
-USA,"Missouri, Kansas City",16:08:00,85,North America,2026-09-11,14:08:11
-USA,"Missouri, St. Louis",16:08:00,83,North America,2026-09-11,14:08:11
-USA,"Montana, Billings",15:08:00,60,North America,2026-09-11,14:08:11
-USA,"Nebraska, Lincoln",16:08:00,87,North America,2026-09-11,14:08:11
-USA,"Nevada, Las Vegas",14:08:00,100,North America,2026-09-11,14:08:11
-USA,"New Hampshire, Concord",17:08:00,73,North America,2026-09-11,14:08:11
-USA,"New Jersey, Newark",17:08:00,82,North America,2026-09-11,14:08:11
-USA,"New Mexico, Albuquerque",15:08:00,89,North America,2026-09-11,14:08:11
-USA,"New York, New York",17:08:00,78,North America,2026-09-11,14:08:11
-USA,"North Carolina, Raleigh",17:08:00,94,North America,2026-09-11,14:08:11
-USA,"North Dakota, Bismarck",16:08:00,71,North America,2026-09-11,14:08:11
-USA,"Ohio, Columbus",17:08:00,82,North America,2026-09-11,14:08:11
-USA,"Oklahoma, Oklahoma City",16:08:00,94,North America,2026-09-11,14:08:11
-USA,"Oregon, Portland",14:08:00,66,North America,2026-09-11,14:08:11
-USA,"Oregon, Salem",14:08:00,66,North America,2026-09-11,14:08:11
-USA,"Pennsylvania, Philadelphia",17:08:00,79,North America,2026-09-11,14:08:11
-USA,"Rhode Island, Providence",17:08:00,77,North America,2026-09-11,14:08:11
-USA,"South Carolina, Columbia",17:08:00,92,North America,2026-09-11,14:08:11
-USA,"South Dakota, Rapid City",15:08:00,81,North America,2026-09-11,14:08:11
-USA,"South Dakota, Sioux Falls",16:08:00,86,North America,2026-09-11,14:08:11
-USA,"Tennessee, Knoxville",17:08:00,92,North America,2026-09-11,14:08:11
-USA,"Tennessee, Nashville",16:08:00,92,North America,2026-09-11,14:08:11
-USA,"Texas, Austin",16:08:00,102,North America,2026-09-11,14:08:11
-USA,"Texas, Dallas",16:08:00,99,North America,2026-09-11,14:08:11
-USA,"Texas, Houston",16:08:00,87,North America,2026-09-11,14:08:11
-USA,"Texas, Midland",16:08:00,100,North America,2026-09-11,14:08:11
-USA,"Utah, Salt Lake City",15:08:00,85,North America,2026-09-11,14:08:11
-USA,"Vermont, Montpelier",17:08:00,65,North America,2026-09-11,14:08:11
-USA,"Virginia, Richmond",17:08:00,85,North America,2026-09-11,14:08:11
-USA,"Washington, Seattle",14:08:00,65,North America,2026-09-11,14:08:11
-USA,"West Virginia, Charleston",17:08:00,78,North America,2026-09-11,14:08:11
-USA,"Wisconsin, Madison",16:08:00,79,North America,2026-09-11,14:08:11
-USA,"Wisconsin, Milwaukee",16:08:00,77,North America,2026-09-11,14:08:11
-USA,"Wyoming, Cheyenne",15:08:00,82,North America,2026-09-11,14:08:11
-Argentina,Buenos Aires,18:08:00,63,South America,2026-09-11,14:08:27
-Argentina,"Córdoba, Córdoba",18:08:00,66,South America,2026-09-11,14:08:27
-Bolivia,La Paz,17:08:00,58,South America,2026-09-11,14:08:27
-Brazil,"Acre, Rio Branco",16:08:00,99,South America,2026-09-11,14:08:27
-Brazil,"Amazonas, Manaus",17:08:00,91,South America,2026-09-11,14:08:27
-Brazil,"Bahia, Salvador",18:08:00,79,South America,2026-09-11,14:08:27
-Brazil,"Ceará, Fortaleza",18:08:00,81,South America,2026-09-11,14:08:27
-Brazil,"Distrito Federal, Brasilia",18:08:00,86,South America,2026-09-11,14:08:27
-Brazil,"Pará, Belém",18:08:00,84,South America,2026-09-11,14:08:27
-Brazil,"Pernambuco, Recife",18:08:00,81,South America,2026-09-11,14:08:27
-Brazil,"Rio de Janeiro, Rio de Janeiro",18:08:00,77,South America,2026-09-11,14:08:27
-Brazil,"São Paulo, São Paulo",18:08:00,79,South America,2026-09-11,14:08:27
-Chile,Easter Island,16:08:00,68,South America,2026-09-11,14:08:27
-Chile,Punta Arenas,18:08:00,42,South America,2026-09-11,14:08:27
-Chile,Santiago,18:08:00,59,South America,2026-09-11,14:08:27
-Colombia,Bogota,16:08:00,64,South America,2026-09-11,14:08:27
-Ecuador,Guayaquil,16:08:00,88,South America,2026-09-11,14:08:27
-Ecuador,Quito,16:08:00,61,South America,2026-09-11,14:08:27
-Falkland Islands,Stanley,18:08:00,39,South America,2026-09-11,14:08:27
-French Guiana,Cayenne,18:08:00,88,South America,2026-09-11,14:08:27
-Guyana,Georgetown,17:08:00,88,South America,2026-09-11,14:08:27
-Paraguay,Asuncion,18:08:00,75,South America,2026-09-11,14:08:27
-Peru,"Lima, Lima",16:08:00,73,South America,2026-09-11,14:08:27
-Suriname,Paramaribo,18:08:00,94,South America,2026-09-11,14:08:27
-Trinidad and Tobago,Port of Spain,17:08:00,86,South America,2026-09-11,14:08:27
-Uruguay,Montevideo,18:08:00,55,South America,2026-09-11,14:08:27
-Venezuela,Caracas,17:08:00,86,South America,2026-09-11,14:08:27
+Algeria,Algiers,22:07,81,Africa,2026-09-11,14:07:50
+Angola,Luanda,22:07,70,Africa,2026-09-11,14:07:50
+Benin,Porto Novo,22:07,79,Africa,2026-09-11,14:07:50
+Botswana,Gaborone,23:07,59,Africa,2026-09-11,14:07:50
+Burundi,Bujumbura,23:07,79,Africa,2026-09-11,14:07:50
+Burundi,Gitega,23:07,79,Africa,2026-09-11,14:07:50
+Cameroon,Yaoundé,22:07,72,Africa,2026-09-11,14:07:50
+Central African Republic,Bangui,22:07,77,Africa,2026-09-11,14:07:50
+Chad,N'Djamena,22:07,82,Africa,2026-09-11,14:07:50
+Comoros,Moroni,00:07,77,Africa,2026-09-11,14:07:50
+Congo,Brazzaville,22:07,79,Africa,2026-09-11,14:07:50
+Congo Dem. Rep.,Kinshasa,22:07,79,Africa,2026-09-11,14:07:50
+Cote d'Ivoire (Ivory Coast),Abidjan,21:07,78,Africa,2026-09-11,14:07:50
+Egypt,Cairo,00:07,79,Africa,2026-09-11,14:07:50
+Equatorial Guinea,Malabo,22:07,77,Africa,2026-09-11,14:07:50
+Eswatini,Mbabane,23:07,77,Africa,2026-09-11,14:07:50
+Ethiopia,Addis Ababa,00:07,61,Africa,2026-09-11,14:07:50
+Gabon,Libreville,22:07,79,Africa,2026-09-11,14:07:50
+Gambia,Banjul,21:07,82,Africa,2026-09-11,14:07:50
+Ghana,Accra,21:07,77,Africa,2026-09-11,14:07:50
+Guinea,Conakry,21:07,81,Africa,2026-09-11,14:07:50
+Guinea-Bissau,Bissau,21:07,82,Africa,2026-09-11,14:07:50
+Kenya,Nairobi,00:07,64,Africa,2026-09-11,14:07:50
+Lesotho,Maseru,23:07,77,Africa,2026-09-11,14:07:50
+Liberia,Monrovia,21:07,75,Africa,2026-09-11,14:07:50
+Madagascar,Antananarivo,00:07,59,Africa,2026-09-11,14:07:50
+Malawi,Lilongwe,23:07,80,Africa,2026-09-11,14:07:50
+Mali,Bamako,21:07,81,Africa,2026-09-11,14:07:50
+Mauritius,Port Louis,01:07,64,Africa,2026-09-11,14:07:50
+Morocco,Casablanca,22:07,79,Africa,2026-09-11,14:07:50
+Morocco,Rabat,22:07,75,Africa,2026-09-11,14:07:50
+Namibia,Windhoek,23:07,74,Africa,2026-09-11,14:07:50
+Niger,Niamey,22:07,88,Africa,2026-09-11,14:07:50
+Nigeria,"Lagos, Lagos",22:07,79,Africa,2026-09-11,14:07:50
+Réunion (French),Saint-Denis,01:07,70,Africa,2026-09-11,14:07:50
+Rwanda,Kigali,23:07,77,Africa,2026-09-11,14:07:50
+Sao Tome and Principe,São Tomé,21:07,82,Africa,2026-09-11,14:07:50
+Senegal,Dakar,21:07,84,Africa,2026-09-11,14:07:50
+Seychelles,Victoria,01:07,82,Africa,2026-09-11,14:07:50
+Sierra Leone,Freetown,21:07,79,Africa,2026-09-11,14:07:50
+South Africa,Cape Town,23:07,63,Africa,2026-09-11,14:07:50
+South Africa,Johannesburg,23:07,65,Africa,2026-09-11,14:07:50
+South Africa,Marion Island (Prince Edward Islands),00:07,34,Africa,2026-09-11,14:07:50
+South Africa,Pretoria,23:07,61,Africa,2026-09-11,14:07:50
+Tanzania,Dar es Salaam,00:07,73,Africa,2026-09-11,14:07:50
+Tanzania,Dodoma,00:07,73,Africa,2026-09-11,14:07:50
+Togo,Lomé,21:07,79,Africa,2026-09-11,14:07:50
+Tunisia,Tunis,22:07,79,Africa,2026-09-11,14:07:50
+Uganda,Kampala,00:07,78,Africa,2026-09-11,14:07:50
+Western Sahara,El Aaiún,22:07,73,Africa,2026-09-11,14:07:50
+Zimbabwe,Harare,23:07,69,Africa,2026-09-11,14:07:50
+Albania,Tirana,23:08,77,Europe,2026-09-11,14:08:00
+Armenia,Yerevan,01:08,72,Europe,2026-09-11,14:08:00
+Austria,"Vienna, Vienna",23:08,54,Europe,2026-09-11,14:08:00
+Belarus,Minsk,00:08,50,Europe,2026-09-11,14:08:00
+Belgium,"Brussels, Brussels",23:08,63,Europe,2026-09-11,14:08:00
+Bosnia-Herzegovina,Sarajevo,23:08,64,Europe,2026-09-11,14:08:00
+Bulgaria,Sofia,00:08,78,Europe,2026-09-11,14:08:00
+Croatia,Zagreb,23:08,55,Europe,2026-09-11,14:08:00
+Cyprus,Nicosia,00:08,75,Europe,2026-09-11,14:08:00
+Czechia,Prague,23:08,55,Europe,2026-09-11,14:08:00
+Denmark,Copenhagen,23:08,59,Europe,2026-09-11,14:08:00
+Estonia,Tallinn,00:08,52,Europe,2026-09-11,14:08:00
+Faroe Islands,Tórshavn,22:08,52,Europe,2026-09-11,14:08:00
+Finland,Helsinki,00:08,50,Europe,2026-09-11,14:08:00
+Finland,Kemi,00:08,50,Europe,2026-09-11,14:08:00
+Finland,Rovaniemi,00:08,46,Europe,2026-09-11,14:08:00
+France,"Paris, Paris",23:08,66,Europe,2026-09-11,14:08:00
+Georgia,Tbilisi,01:08,66,Europe,2026-09-11,14:08:00
+Germany,"Berlin, Berlin",23:08,59,Europe,2026-09-11,14:08:00
+Germany,"Hesse, Frankfurt",23:08,66,Europe,2026-09-11,14:08:00
+Gibraltar,"Gibraltar, Gibraltar",23:08,72,Europe,2026-09-11,14:08:00
+Greece,Athens,00:08,83,Europe,2026-09-11,14:08:00
+Hungary,Budapest,23:08,57,Europe,2026-09-11,14:08:00
+Iceland,Reykjavik,21:08,46,Europe,2026-09-11,14:08:00
+Ireland,Dublin,22:08,55,Europe,2026-09-11,14:08:00
+Isle of Man,Douglas,22:08,57,Europe,2026-09-11,14:08:00
+Italy,Milan,23:08,72,Europe,2026-09-11,14:08:00
+Italy,Rome,23:08,77,Europe,2026-09-11,14:08:00
+Kosovo,Pristina,23:08,83,Europe,2026-09-11,14:08:00
+Latvia,Riga,00:08,50,Europe,2026-09-11,14:08:00
+Liechtenstein,Vaduz,23:08,54,Europe,2026-09-11,14:08:00
+Lithuania,Vilnius,00:08,48,Europe,2026-09-11,14:08:00
+Luxembourg,Luxembourg,23:08,66,Europe,2026-09-11,14:08:00
+Malta,Valletta,23:08,81,Europe,2026-09-11,14:08:00
+Moldova,Chișinău,00:08,72,Europe,2026-09-11,14:08:00
+Monaco,Monaco,23:08,73,Europe,2026-09-11,14:08:00
+Montenegro,Podgorica,23:08,79,Europe,2026-09-11,14:08:00
+Netherlands,Amsterdam,23:08,59,Europe,2026-09-11,14:08:00
+North Macedonia,Skopje,23:08,79,Europe,2026-09-11,14:08:00
+Norway,"Svalbard, Longyearbyen",23:08,39,Europe,2026-09-11,14:08:00
+Norway,Oslo,23:08,54,Europe,2026-09-11,14:08:00
+Norway,Tromsø,23:08,52,Europe,2026-09-11,14:08:00
+Poland,Warsaw,23:08,55,Europe,2026-09-11,14:08:00
+Portugal,"Azores, Ponta Delgada",21:08,75,Europe,2026-09-11,14:08:00
+Portugal,"Lisbon, Lisbon",22:08,75,Europe,2026-09-11,14:08:00
+Romania,Bucharest,00:08,68,Europe,2026-09-11,14:08:00
+Russia,Belushya Guba,00:08,41,Europe,2026-09-11,14:08:00
+Russia,Kaliningrad,23:08,50,Europe,2026-09-11,14:08:00
+Russia,Moscow,00:08,53,Europe,2026-09-11,14:08:00
+Russia,Murmansk,00:08,46,Europe,2026-09-11,14:08:00
+Russia,Novgorod,00:08,51,Europe,2026-09-11,14:08:00
+Russia,Saint Petersburg,00:08,55,Europe,2026-09-11,14:08:00
+Russia,Samara,01:08,54,Europe,2026-09-11,14:08:00
+Russia,Kazan,00:08,54,Europe,2026-09-11,14:08:00
+Russia,Izhevsk,01:08,53,Europe,2026-09-11,14:08:00
+San Marino,San Marino,23:08,72,Europe,2026-09-11,14:08:00
+Serbia,Belgrade,23:08,64,Europe,2026-09-11,14:08:00
+Slovakia,Bratislava,23:08,57,Europe,2026-09-11,14:08:00
+Slovenia,Ljubljana,23:08,57,Europe,2026-09-11,14:08:00
+Spain,"Barcelona, Barcelona",23:08,75,Europe,2026-09-11,14:08:00
+Spain,"Madrid, Madrid",23:08,72,Europe,2026-09-11,14:08:00
+Spain,"Majorca, Palma",23:08,72,Europe,2026-09-11,14:08:00
+Sweden,Stockholm,23:08,55,Europe,2026-09-11,14:08:00
+Switzerland,"Bern, Bern",23:08,52,Europe,2026-09-11,14:08:00
+Switzerland,"Geneva, Geneva",23:08,61,Europe,2026-09-11,14:08:00
+Switzerland,"Zurich, Zürich",23:08,52,Europe,2026-09-11,14:08:00
+Turkey,Istanbul,00:08,72,Europe,2026-09-11,14:08:00
+Ukraine,Kyiv,00:08,65,Europe,2026-09-11,14:08:00
+United Kingdom,"England, London",22:08,63,Europe,2026-09-11,14:08:00
+United Kingdom,"Northern Ireland, Belfast",22:08,57,Europe,2026-09-11,14:08:00
+United Kingdom,"Scotland, Edinburgh",22:08,52,Europe,2026-09-11,14:08:00
+United Kingdom,"Scotland, Glasgow",22:08,55,Europe,2026-09-11,14:08:00
+United Kingdom,"Wales, Cardiff",22:08,57,Europe,2026-09-11,14:08:00
+Vatican City State,Vatican City,23:08,77,Europe,2026-09-11,14:08:00
+Antigua and Barbuda,Saint John's,17:08,88,North America,2026-09-11,14:08:11
+Bahamas,Nassau,17:08,90,North America,2026-09-11,14:08:11
+Barbados,Bridgetown,17:08,86,North America,2026-09-11,14:08:11
+Belize,Belmopan,15:08,90,North America,2026-09-11,14:08:11
+Bermuda,Hamilton,18:08,82,North America,2026-09-11,14:08:11
+Canada,"Alberta, Calgary",15:08,54,North America,2026-09-11,14:08:11
+Canada,"Alberta, Edmonton",15:08,52,North America,2026-09-11,14:08:11
+Canada,"British Columbia, Vancouver",14:08,64,North America,2026-09-11,14:08:11
+Canada,"Manitoba, Winnipeg",16:08,70,North America,2026-09-11,14:08:11
+Canada,"New Brunswick, Saint John",18:08,64,North America,2026-09-11,14:08:11
+Canada,"Newfoundland and Labrador, Happy Valley-Goose Bay",18:08,46,North America,2026-09-11,14:08:11
+Canada,"Newfoundland and Labrador, Mary's Harbour",18:38,54,North America,2026-09-11,14:08:11
+Canada,"Newfoundland and Labrador, St. John's",18:38,61,North America,2026-09-11,14:08:11
+Canada,"Northwest Territories, Inuvik",15:08,55,North America,2026-09-11,14:08:11
+Canada,"Northwest Territories, Yellowknife",15:08,52,North America,2026-09-11,14:08:11
+Canada,"Nova Scotia, Halifax",18:08,63,North America,2026-09-11,14:08:11
+Canada,"Nunavut, Alert",17:08,19,North America,2026-09-11,14:08:11
+Canada,"Nunavut, Baker Lake",16:08,43,North America,2026-09-11,14:08:11
+Canada,"Nunavut, Coral Harbour",16:08,43,North America,2026-09-11,14:08:11
+Canada,"Nunavut, Eureka",16:08,25,North America,2026-09-11,14:08:11
+Canada,"Nunavut, Pond Inlet",17:08,37,North America,2026-09-11,14:08:11
+Canada,"Nunavut, Resolute Bay",16:08,28,North America,2026-09-11,14:08:11
+Canada,"Ontario, Ottawa",17:08,66,North America,2026-09-11,14:08:11
+Canada,"Ontario, Toronto",17:08,72,North America,2026-09-11,14:08:11
+Canada,"Quebec, Blanc-Sablon",17:08,55,North America,2026-09-11,14:08:11
+Canada,"Quebec, Chibougamau",17:08,61,North America,2026-09-11,14:08:11
+Canada,"Quebec, Kuujjuaq",17:08,48,North America,2026-09-11,14:08:11
+Canada,"Quebec, Montréal",17:08,66,North America,2026-09-11,14:08:11
+Canada,"Quebec, Québec",17:08,64,North America,2026-09-11,14:08:11
+Canada,"Saskatchewan, Regina",15:08,57,North America,2026-09-11,14:08:11
+Canada,"Yukon, Whitehorse",14:08,50,North America,2026-09-11,14:08:11
+Cayman Islands,"Grand Cayman, George Town",16:08,90,North America,2026-09-11,14:08:11
+Costa Rica,San Jose,15:08,72,North America,2026-09-11,14:08:11
+Cuba,Havana,17:08,91,North America,2026-09-11,14:08:11
+Dominica,Roseau,17:08,90,North America,2026-09-11,14:08:11
+Dominican Republic,Santo Domingo,17:08,92,North America,2026-09-11,14:08:11
+El Salvador,San Salvador,15:08,90,North America,2026-09-11,14:08:11
+Grenada,Saint George's,17:08,90,North America,2026-09-11,14:08:11
+Guadeloupe,"Guadeloupe, Basse-Terre",17:08,88,North America,2026-09-11,14:08:11
+Guam,Hagåtña,07:08,79,North America,2026-09-11,14:08:11
+Guatemala,Guatemala City,15:08,82,North America,2026-09-11,14:08:11
+Haiti,Port-au-Prince,17:08,99,North America,2026-09-11,14:08:11
+Honduras,Tegucigalpa,15:08,90,North America,2026-09-11,14:08:11
+Jamaica,Kingston,16:08,89,North America,2026-09-11,14:08:11
+Martinique,Fort-de-France,17:08,88,North America,2026-09-11,14:08:11
+Mexico,"Aguascalientes, Aguascalientes",15:08,79,North America,2026-09-11,14:08:11
+Mexico,"Baja California, Mexicali",14:08,107,North America,2026-09-11,14:08:11
+Mexico,"Baja California, Tijuana",14:08,90,North America,2026-09-11,14:08:11
+Mexico,"Ciudad de México, Mexico City",15:08,77,North America,2026-09-11,14:08:11
+Mexico,"Guerrero, Acapulco",15:08,91,North America,2026-09-11,14:08:11
+Mexico,"Jalisco, Guadalajara",15:08,81,North America,2026-09-11,14:08:11
+Mexico,"Quintana Roo, Cancún",16:08,91,North America,2026-09-11,14:08:11
+Mexico,"Sinaloa, Mazatlan",14:08,91,North America,2026-09-11,14:08:11
+Mexico,"Sonora, Hermosillo",14:08,99,North America,2026-09-11,14:08:11
+Mexico,"Veracruz, Veracruz",15:08,91,North America,2026-09-11,14:08:11
+Nicaragua,Managua,15:08,95,North America,2026-09-11,14:08:11
+Panama,Panama,16:08,82,North America,2026-09-11,14:08:11
+Puerto Rico,San Juan,17:08,89,North America,2026-09-11,14:08:11
+Saint Kitts and Nevis,Basseterre,17:08,86,North America,2026-09-11,14:08:11
+Saint Lucia,Castries,17:08,86,North America,2026-09-11,14:08:11
+Saint Vincent and Grenadines,Kingstown,17:08,86,North America,2026-09-11,14:08:11
+US Minor Outlying Islands,Wake Island,09:08,84,North America,2026-09-11,14:08:11
+USA,"Alabama, Montgomery",16:08,81,North America,2026-09-11,14:08:11
+USA,"Alaska, Anchorage",13:08,56,North America,2026-09-11,14:08:11
+USA,"Alaska, Fairbanks",13:08,52,North America,2026-09-11,14:08:11
+USA,"Alaska, Juneau",13:08,62,North America,2026-09-11,14:08:11
+USA,"Alaska, Unalaska",13:08,66,North America,2026-09-11,14:08:11
+USA,"Arizona, Phoenix",14:08,101,North America,2026-09-11,14:08:11
+USA,"Arkansas, Little Rock",16:08,83,North America,2026-09-11,14:08:11
+USA,"California, Los Angeles",14:08,88,North America,2026-09-11,14:08:11
+USA,"California, Sacramento",14:08,85,North America,2026-09-11,14:08:11
+USA,"California, San Diego",14:08,78,North America,2026-09-11,14:08:11
+USA,"California, San Francisco",14:08,70,North America,2026-09-11,14:08:11
+USA,"California, San Jose",14:08,78,North America,2026-09-11,14:08:11
+USA,"Colorado, Denver",15:08,89,North America,2026-09-11,14:08:11
+USA,"Connecticut, Hartford",17:08,77,North America,2026-09-11,14:08:11
+USA,"Delaware, Dover",17:08,77,North America,2026-09-11,14:08:11
+USA,"District of Columbia, Washington DC",17:08,81,North America,2026-09-11,14:08:11
+USA,"Florida, Miami",17:08,87,North America,2026-09-11,14:08:11
+USA,"Florida, Orlando",17:08,83,North America,2026-09-11,14:08:11
+USA,"Florida, Pensacola",16:08,81,North America,2026-09-11,14:08:11
+USA,"Georgia, Atlanta",17:08,77,North America,2026-09-11,14:08:11
+USA,"Hawaii, Honolulu",11:08,85,North America,2026-09-11,14:08:11
+USA,"Idaho, Boise",15:08,76,North America,2026-09-11,14:08:11
+USA,"Illinois, Chicago",16:08,80,North America,2026-09-11,14:08:11
+USA,"Indiana, Indianapolis",17:08,81,North America,2026-09-11,14:08:11
+USA,"Iowa, Des Moines",16:08,83,North America,2026-09-11,14:08:11
+USA,"Kansas, Topeka",16:08,87,North America,2026-09-11,14:08:11
+USA,"Kentucky, Louisville",17:08,79,North America,2026-09-11,14:08:11
+USA,"Louisiana, New Orleans",16:08,82,North America,2026-09-11,14:08:11
+USA,"Maine, Augusta",17:08,70,North America,2026-09-11,14:08:11
+USA,"Maryland, Baltimore",17:08,78,North America,2026-09-11,14:08:11
+USA,"Massachusetts, Boston",17:08,78,North America,2026-09-11,14:08:11
+USA,"Michigan, Detroit",17:08,76,North America,2026-09-11,14:08:11
+USA,"Minnesota, Minneapolis",16:08,85,North America,2026-09-11,14:08:11
+USA,"Minnesota, Saint Paul",16:08,87,North America,2026-09-11,14:08:11
+USA,"Mississippi, Jackson",16:08,86,North America,2026-09-11,14:08:11
+USA,"Missouri, Kansas City",16:08,85,North America,2026-09-11,14:08:11
+USA,"Missouri, St. Louis",16:08,83,North America,2026-09-11,14:08:11
+USA,"Montana, Billings",15:08,60,North America,2026-09-11,14:08:11
+USA,"Nebraska, Lincoln",16:08,87,North America,2026-09-11,14:08:11
+USA,"Nevada, Las Vegas",14:08,100,North America,2026-09-11,14:08:11
+USA,"New Hampshire, Concord",17:08,73,North America,2026-09-11,14:08:11
+USA,"New Jersey, Newark",17:08,82,North America,2026-09-11,14:08:11
+USA,"New Mexico, Albuquerque",15:08,89,North America,2026-09-11,14:08:11
+USA,"New York, New York",17:08,78,North America,2026-09-11,14:08:11
+USA,"North Carolina, Raleigh",17:08,94,North America,2026-09-11,14:08:11
+USA,"North Dakota, Bismarck",16:08,71,North America,2026-09-11,14:08:11
+USA,"Ohio, Columbus",17:08,82,North America,2026-09-11,14:08:11
+USA,"Oklahoma, Oklahoma City",16:08,94,North America,2026-09-11,14:08:11
+USA,"Oregon, Portland",14:08,66,North America,2026-09-11,14:08:11
+USA,"Oregon, Salem",14:08,66,North America,2026-09-11,14:08:11
+USA,"Pennsylvania, Philadelphia",17:08,79,North America,2026-09-11,14:08:11
+USA,"Rhode Island, Providence",17:08,77,North America,2026-09-11,14:08:11
+USA,"South Carolina, Columbia",17:08,92,North America,2026-09-11,14:08:11
+USA,"South Dakota, Rapid City",15:08,81,North America,2026-09-11,14:08:11
+USA,"South Dakota, Sioux Falls",16:08,86,North America,2026-09-11,14:08:11
+USA,"Tennessee, Knoxville",17:08,92,North America,2026-09-11,14:08:11
+USA,"Tennessee, Nashville",16:08,92,North America,2026-09-11,14:08:11
+USA,"Texas, Austin",16:08,102,North America,2026-09-11,14:08:11
+USA,"Texas, Dallas",16:08,99,North America,2026-09-11,14:08:11
+USA,"Texas, Houston",16:08,87,North America,2026-09-11,14:08:11
+USA,"Texas, Midland",16:08,100,North America,2026-09-11,14:08:11
+USA,"Utah, Salt Lake City",15:08,85,North America,2026-09-11,14:08:11
+USA,"Vermont, Montpelier",17:08,65,North America,2026-09-11,14:08:11
+USA,"Virginia, Richmond",17:08,85,North America,2026-09-11,14:08:11
+USA,"Washington, Seattle",14:08,65,North America,2026-09-11,14:08:11
+USA,"West Virginia, Charleston",17:08,78,North America,2026-09-11,14:08:11
+USA,"Wisconsin, Madison",16:08,79,North America,2026-09-11,14:08:11
+USA,"Wisconsin, Milwaukee",16:08,77,North America,2026-09-11,14:08:11
+USA,"Wyoming, Cheyenne",15:08,82,North America,2026-09-11,14:08:11
+Argentina,Buenos Aires,18:08,63,South America,2026-09-11,14:08:27
+Argentina,"Córdoba, Córdoba",18:08,66,South America,2026-09-11,14:08:27
+Bolivia,La Paz,17:08,58,South America,2026-09-11,14:08:27
+Brazil,"Acre, Rio Branco",16:08,99,South America,2026-09-11,14:08:27
+Brazil,"Amazonas, Manaus",17:08,91,South America,2026-09-11,14:08:27
+Brazil,"Bahia, Salvador",18:08,79,South America,2026-09-11,14:08:27
+Brazil,"Ceará, Fortaleza",18:08,81,South America,2026-09-11,14:08:27
+Brazil,"Distrito Federal, Brasilia",18:08,86,South America,2026-09-11,14:08:27
+Brazil,"Pará, Belém",18:08,84,South America,2026-09-11,14:08:27
+Brazil,"Pernambuco, Recife",18:08,81,South America,2026-09-11,14:08:27
+Brazil,"Rio de Janeiro, Rio de Janeiro",18:08,77,South America,2026-09-11,14:08:27
+Brazil,"São Paulo, São Paulo",18:08,79,South America,2026-09-11,14:08:27
+Chile,Easter Island,16:08,68,South America,2026-09-11,14:08:27
+Chile,Punta Arenas,18:08,42,South America,2026-09-11,14:08:27
+Chile,Santiago,18:08,59,South America,2026-09-11,14:08:27
+Colombia,Bogota,16:08,64,South America,2026-09-11,14:08:27
+Ecuador,Guayaquil,16:08,88,South America,2026-09-11,14:08:27
+Ecuador,Quito,16:08,61,South America,2026-09-11,14:08:27
+Falkland Islands,Stanley,18:08,39,South America,2026-09-11,14:08:27
+French Guiana,Cayenne,18:08,88,South America,2026-09-11,14:08:27
+Guyana,Georgetown,17:08,88,South America,2026-09-11,14:08:27
+Paraguay,Asuncion,18:08,75,South America,2026-09-11,14:08:27
+Peru,"Lima, Lima",16:08,73,South America,2026-09-11,14:08:27
+Suriname,Paramaribo,18:08,94,South America,2026-09-11,14:08:27
+Trinidad and Tobago,Port of Spain,17:08,86,South America,2026-09-11,14:08:27
+Uruguay,Montevideo,18:08,55,South America,2026-09-11,14:08:27
+Venezuela,Caracas,17:08,86,South America,2026-09-11,14:08:27
