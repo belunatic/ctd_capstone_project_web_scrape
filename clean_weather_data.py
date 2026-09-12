@@ -39,7 +39,7 @@ print("\nData Frame after converting Weather to numerical values and replacing Â
 print(df.head())
 
 #convert time to datetime format
-df['Time'] = pd.to_datetime(df['Time'], format='%a %I:%M %p').dt.time
+df['Time'] = pd.to_datetime(df['Time'], format='%a %I:%M %p').dt.strftime('%H:%M')
 print("\nData Frame after converting Time to datetime format:")
 print(df.head())
 
