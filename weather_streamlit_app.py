@@ -123,3 +123,52 @@ if sidebar_option == 'All Continents':
     fig.update_xaxes(title_text="Hours (24hrs) ", dtick=2)
     fig.update_yaxes(title_text="Weather (°F) ", dtick=10)
     st.plotly_chart(fig)
+else:
+    #get the filtered df from the original df
+    df = df[df['Continent'] == sidebar_option]
+
+    #get high, low, avg temp
+    high, low, avg = get_high_low(df)
+
+    #heading
+    st.markdown(f'## {sidebar_option} Continents Weather')
+
+    #columns
+    a,b,c = st.columns(3)
+    d,e = st.columns(2)
+
+    #metrics
+    a.metric("Highest Temperature", f"{high} °F")
+    b.metric("Lowest Temperature", f"{low} °F")
+    c.metric("Average Temperature", f"{avg} °F")
+
+    #sort and get the top 5 and bottom 5
+    df_sorted_by_temp = df.sort_values(by='Weather', ascending=False)
+
+    with d:
+        #get the df with high and low
+        df_high = df_sorted_by_temp.head(5)
+        df_low = df_sorted_by_temp.tail(5)
+        fig = px.bar(
+            df_high,
+            y=df_high['City'],
+            x=df_high['Weather'],
+            orientation='h',
+            title=f'Highest Temperature Cities in {sidebar_option}',
+            hover_data=["Country", "Time"],
+            )
+        fig.update_traces(marker_color='red')
+        fig.update_xaxes(dtick=5, range=[0,df_high['Weather'].max()+10])
+        st.plotly_chart(fig, use_container_width=True)
+
+        fig = px.bar(
+            df_low,
+            y=df_low['City'],
+            x=df_low['Weather'],
+            orientation='h',
+            title=f'Lowest Temperature Cities in {sidebar_option}',
+            hover_data=["Country", "Time"],
+            )
+
+        fig.update_xaxes(dtick=5, range=[0,df_high['Weather'].max()+10])
+        st.plotly_chart(fig, use_container_width=True)
