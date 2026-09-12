@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import sqlite3
-# import plotly.express as px
+import plotly.express as px  
 
 #connect to the SQLite database
 conn = sqlite3.connect('db/weather_data.db')
@@ -36,7 +36,7 @@ collected_time = df['Collected_Time'].iloc[0]
 
 #convert the collected date and time to a more readable format
 collected_date = pd.to_datetime(collected_date).strftime('%B %d, %Y')
-collected_time = pd.to_datetime(collected_time).strftime('%I:%M %p')    
+collected_time = pd.to_datetime(collected_time).strftime('%I:%M')    
 
 #page config
 page_title = "Weather Data As of " + collected_date + " at " + collected_time;
@@ -49,8 +49,29 @@ sidebar_option = st.sidebar.selectbox('Select Continent', continents_list)
 
 #Main Content
 st.title("Weather For Popular Cities")
-st.markdown('This data was collected from *timeanddate.com* on ' + collected_date + ' at ' + collected_time + ' (local time).')
+st.markdown('This data was collected from *timeanddate.com* on ' + collected_date + ' at ' + collected_time + ' PST.')
+st.markdown(f"From {", ".join(continents_list[1:])}")
 
 #display for 'All continent' VS 'A continent'
 if sidebar_option == 'All Continents':
     st.metric(f"${df['Country'].values[0]}", f"{df['Weather'].values[0]} F")
+
+    #get the hour
+    df['Hour'] = pd.to_datetime(df['Time'], format='%H:%M').dt.hour
+    #convert the hour to int
+    df['Hour'] = df['Hour'].astype(int)
+    print(df.head(20))
+
+    # Sort by actual time
+    df = df.sort_values( by='Hour', ascending=True)
+
+    # Plot
+    fig = px.scatter(
+        df,
+        x='Hour',
+        y='Weather',
+        color='Continent',
+        title='Weather Data from Africa, Europe, N.America, and S.America',
+        hover_data=["Country", "City", "Time"]
+    )
+    st.plotly_chart(fig)
