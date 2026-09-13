@@ -18,3 +18,5 @@ The Weather Streamlit App is showing the Weather(temperature) of the Popular cit
 
 - Adding the other Continent popular cities weather
 - Update the Weather once a day ( create a cron job)
+
+![An image of Weather Streamlit App I built](./image/weather_streamlit_app.png)
