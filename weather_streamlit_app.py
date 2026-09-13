@@ -70,6 +70,10 @@ st.set_page_config(page_title=page_title, page_icon="🌞", layout="wide", initi
 
 #sidebar
 st.sidebar.title('Explore')
+#app recap
+with st.sidebar.expander('About the Weather App'):
+    st.write(f'This app gives you a quick snapshot of real‑time temperatures across popular cities in Africa, Europe, North America, and South America, offering an easy way to compare weather conditions around the world. Using data retrieved from timeanddate.com, it presents a {collected_date}, {collected_time} snapshot that helps build awareness of global climate differences and gives users a simple, visual sense of what the weather feels like across continents.')
+
 sidebar_option = st.sidebar.selectbox('Select Continent', continents_list)
 
 #Main Content
