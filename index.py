@@ -15,6 +15,9 @@ weather_data = []
 
 def get_weather_data(driver, continent):
     results=[]
+    #get the time and date of the data collection
+    current_collected_date = datetime.now().strftime("%Y-%m-%d")
+    current_collected_time = datetime.now().strftime("%H:%M:%S")
     
     table_body_row = driver.find_elements(By.CSS_SELECTOR, 'table tbody tr')    
     if len(table_body_row) > 0 and table_body_row: 
@@ -41,6 +44,8 @@ def get_weather_data(driver, continent):
                 result_dict['Time'] = cells[1].text
                 result_dict['Weather'] = cells[3].text
                 result_dict['Continent'] = continent
+                result_dict['Collected Date'] = current_collected_date
+                result_dict['Collected Time'] = current_collected_time
                 #append the result_dict to the results list
                 results.append(result_dict)
     return results
@@ -83,9 +88,9 @@ try:
     # Save extracted data to a CSV file
     with open('weather_data.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(["Country", "City", "Time", "Weather", "Continent"])
+        writer.writerow(["Country", "City", "Time", "Weather", "Continent", "Collected Date", "Collected Time"])
         for result in weather_data:
-            writer.writerow([result["Country"], result["City"], result["Time"], result["Weather"], result["Continent"]])
+            writer.writerow([result["Country"], result["City"], result["Time"], result["Weather"], result["Continent"], result["Collected Date"], result["Collected Time"]])
         print("Weather data saved to weather_data.csv successfully.")
 except Exception as e:
     print('An error occurred while saving data to CSV:', e)
