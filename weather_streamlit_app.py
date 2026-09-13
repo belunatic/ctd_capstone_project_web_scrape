@@ -12,6 +12,15 @@ def get_high_low(df):
 
     return high_temp, low_temp, avg_temp
 
+#print out the city and temps
+def print_continent_city_temp(row):
+    st.markdown(f"""
+        <div style="display: flex; justify-content: space-between; width: 100%;, padding-left:10px;padding-right:10px;margin-top:20px;">
+        <span><strong>{row['Country']}, {row['City']}</strong></span>
+        <span style="text-align: right;">{row['Weather']}°F</span>
+        </div>
+        """, unsafe_allow_html=True)
+
 #connect to the SQLite database
 conn = sqlite3.connect('db/weather_data.db')
 conn.execute('PRAGMA foreign_keys = ON;')
@@ -56,7 +65,7 @@ all_high, all_low, all_avg = get_high_low(df)
 
 #page config
 page_title = "Weather Data As of " + collected_date + " at " + collected_time;
-st.set_page_config(page_title=page_title, page_icon="🌞", layout="wide")
+st.set_page_config(page_title=page_title, page_icon="🌞", layout="wide", initial_sidebar_state='expanded')
 
 
 #sidebar
@@ -64,7 +73,7 @@ st.sidebar.title('Explore')
 sidebar_option = st.sidebar.selectbox('Select Continent', continents_list)
 
 #Main Content
-st.title("Weather For Popular Cities")
+st.title("Weather In Popular Cities")
 st.markdown('This data was collected from *timeanddate.com* on ' + collected_date + ' at ' + collected_time + ' PST.')
 # st.markdown(f"From {", ".join(continents_list[1:])}")
 
@@ -96,6 +105,8 @@ if sidebar_option == 'All Continents':
     d.metric("Highest Temperature", f"{sa_high} °F")
     d.metric("Lowest Temperature", f"{sa_low} °F")
     d.metric("Average Temperature", f"{sa_avg} °F")
+
+    st.divider()
 
     ## DISPLAY THE SCATTERED PLOT
     #get the hour
@@ -131,16 +142,21 @@ else:
     high, low, avg = get_high_low(df)
 
     #heading
-    st.markdown(f'## {sidebar_option} Continents Weather')
+    st.markdown(f'## {sidebar_option} Weather')
 
     #columns
     a,b,c = st.columns(3)
+    st.divider()
     d,e = st.columns(2)
 
     #metrics
-    a.metric("Highest Temperature", f"{high} °F")
-    b.metric("Lowest Temperature", f"{low} °F")
-    c.metric("Average Temperature", f"{avg} °F")
+    with a:
+        st.metric("Highest Temperature", f"{high} °F")
+    with b:
+        st.metric("Lowest Temperature", f"{low} °F")
+    with c:
+        st.metric("Average Temperature", f"{avg} °F")
+
 
     #sort and get the top 5 and bottom 5
     df_sorted_by_temp = df.sort_values(by='Weather', ascending=False)
@@ -149,6 +165,8 @@ else:
         #get the df with high and low
         df_high = df_sorted_by_temp.head(5)
         df_low = df_sorted_by_temp.tail(5)
+
+        #bar graphs
         fig = px.bar(
             df_high,
             y=df_high['City'],
@@ -159,6 +177,7 @@ else:
             )
         fig.update_traces(marker_color='red')
         fig.update_xaxes(dtick=5, range=[0,df_high['Weather'].max()+10])
+
         st.plotly_chart(fig, use_container_width=True)
 
         fig = px.bar(
@@ -171,4 +190,16 @@ else:
             )
 
         fig.update_xaxes(dtick=5, range=[0,df_high['Weather'].max()+10])
+
         st.plotly_chart(fig, use_container_width=True)
+
+    with e:
+        #sort country
+        df_sort_country = df.sort_values(by='Country')
+        #heading
+        st.markdown("### Country, City and Temperatures")
+        #display continent country, city, and temp
+        df_sort_country.apply(print_continent_city_temp, axis=1)
+
+st.caption('Data is from [timeanddate.com](https://www.timeanddate.com/weather/)')
+
